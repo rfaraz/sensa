@@ -23,7 +23,7 @@ const VapiWidget: React.FC<VapiWidgetProps> = ({
   // Timing
   let vapiCallStartTime: number | null = null;
   let elapsedTime: number | null = null;
-  let militaryTime: string | null = null;
+  //let militaryTime: string | null = null;
 
 
   // Keep ref updated
@@ -43,7 +43,7 @@ const VapiWidget: React.FC<VapiWidgetProps> = ({
       vapiCallStartTime = now.getTime();
       const hours = now.getHours().toString().padStart(2, '0');
       const minutes = now.getMinutes().toString().padStart(2, '0');
-      const militaryTime = `${hours}:${minutes}`;
+      //const militaryTime = `${hours}:${minutes}`;
       setIsConnected(true);
       setTranscript([]); // Clear transcript on call end
     });
