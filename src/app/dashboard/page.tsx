@@ -22,12 +22,23 @@ export default function DashboardPage() {
     description: string
   }
 
+  type Action = {
+    label: string
+    onClick: () => void
+  }
+
+  type ClinicalNote = {
+    title: string
+    content: string
+    createdAt: string
+  }
+
   type DashboardData = {
     patientData: PatientDataType
     transcript: string
     extractedSymptoms: ExtractedSymptom[]
-    actions?: any
-    clinicalNotes?: any
+    actions?: Action[]
+    clinicalNotes?: ClinicalNote[]
   }
 
   const [dashboardData, setDashboardData] = useState<DashboardData | null>(null)
