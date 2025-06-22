@@ -22,14 +22,18 @@ export default function DashboardPage() {
     description: string
   }
 
-  type ClinicalNote = ClinicalNote[]
+  type ClinicalNote = {
+    assessment: string
+    concerns: string
+    plan: string
+  }
 
   type DashboardData = {
     patientData: PatientDataType
     transcript: string
     extractedSymptoms: ExtractedSymptom[]
     actions?: string[]
-    clinicalNotes?: ClinicalNote[]
+    clinicalNotes?: ClinicalNote
   }
 
   const [dashboardData, setDashboardData] = useState<DashboardData | null>(null)
@@ -51,7 +55,7 @@ export default function DashboardPage() {
       transcript={dashboardData.transcript}
       extractedSymptoms={dashboardData.extractedSymptoms}
       actions={dashboardData.actions ?? []}
-      clinicalNotes={dashboardData.clinicalNotes}
+      clinicalNotes={dashboardData.clinicalNotes ?? { assessment: "", concerns: "", plan: "" }}
     />
   )
 }
