@@ -298,9 +298,9 @@ export default function PatientDashboard({
                           <span className="font-medium">Location:</span> {item.location || 'Not specified'}
                         </div>
                       </div>
-                      {item.description && (
-                        <p className="text-sm text-gray-700 mt-2 italic">"{item.description}"</p>
-                      )}
+                      {{item.description && (
+                          <p className="text-sm text-gray-700 mt-2 italic">{`"${item.description}"`}</p>
+                        )}
                     </div>
                   ))}
                 </div>
