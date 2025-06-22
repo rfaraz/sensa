@@ -1,0 +1,333 @@
+symptom_description,triage_level
+Admitted after experiencing motorvehiclecrash.,Emergency
+"Stating they feel abdominalpain, nausea, and shortnessofbreath.",Emergency
+Stating they feel cardiacarrest.,Emergency
+Experiencing neurologicproblem.,Emergency
+"Admitted after experiencing dizziness, lossofconsciousness, and multiplefalls.",Emergency
+Patient reports alteredmentalstatus.,Emergency
+Stating they feel chestpain.,Emergency
+Patient says they have overdose accidental.,Emergency
+"Symptoms include cough, and shortnessofbreath.",Emergency
+Admitted after experiencing syncope.,Emergency
+Stating they feel poisoning.,Emergency
+Stating they feel assaultvictim.,Emergency
+Symptoms include strokealert.,Emergency
+Complains of palpitations.,Emergency
+Symptoms include shortnessofbreath.,Emergency
+"Came in due to anxiety, and syncope.",Emergency
+"Presenting complaint: headachere evaluation, hypertension, and tachycardia.",Emergency
+"Presenting complaint: chestpain, and emesis.",Emergency
+Patient reports seizure priorhxof.,Emergency
+"Symptoms include fall, and hypertension.",Emergency
+Complains of respiratorydistress.,Emergency
+Experiencing seizure newonset.,Emergency
+"Stating they feel emesis, and seizure priorhxof.",Emergency
+Complains of nearsyncope.,Emergency
+Complains of abdominalpainpregnant.,Emergency
+Complains of breathingproblem.,Emergency
+Patient says they have motorcyclecrash.,Emergency
+Stating they feel fall>65.,Emergency
+"Symptoms include abdominalpain, and headachere evaluation.",Emergency
+Admitted after experiencing seizures.,Emergency
+Presenting complaint: withdrawal alcohol.,Emergency
+"Experiencing alcoholintoxication, and suicidal.",Emergency
+"Presenting complaint: alcoholintoxication, and depression.",Emergency
+"Admitted after experiencing alcoholintoxication, and motorvehiclecrash.",Emergency
+"Experiencing palpitations, and shortnessofbreath.",Emergency
+Symptoms include suicidal.,Emergency
+"Stating they feel fatigue, and shortnessofbreath.",Emergency
+"Patient found unresponsive at home, no known medical history, shallow breathing and cyanosis observed.",Emergency
+"Bystander reported cardiac arrest, CPR in progress, automated defibrillator used prior to arrival.",Emergency
+"Severe respiratory distress with audible stridor, unable to speak in full sentences.",Emergency
+"Massive head trauma from construction accident, GCS score of 3, non-verbal, bleeding profusely.",Emergency
+"Patient presents with crushing chest pain radiating to left arm, diaphoretic and nauseated.",Emergency
+"Sudden onset of slurred speech, facial droop, and right arm weakness. Stroke alert activated.",Emergency
+"Fall from ladder with back pain and numbness in both legs, high-risk trauma evaluation needed.",Emergency
+"Severe asthma exacerbation; patient using accessory muscles, speaking only in single words.",Emergency
+"Vomiting blood and hypotensive, history of liver cirrhosis. Likely upper GI bleed.",Emergency
+Shortness of breath with oxygen saturation of 82% on room air and history of COPD.,Emergency
+"Severe abdominal pain with rigid abdomen, possible appendicitis or bowel obstruction.",Emergency
+"Multiple trauma from high-speed car accident, unconscious with suspected internal bleeding.",Emergency
+"Anaphylactic shock following bee sting, swollen airway and dropping blood pressure.",Emergency
+"Active psychiatric crisis with threats of self-harm, police escort required.",Emergency
+"Overdose with altered consciousness, slow breathing, and unresponsive to verbal commands.",Emergency
+"Gunshot wound to chest, active bleeding, pneumothorax suspected.",Emergency
+"Status epilepticus, continuous seizure activity for over 10 minutes.",Emergency
+"Hypothermia after exposure, core temperature 89°F, confused and shivering uncontrollably.",Emergency
+"Diabetic ketoacidosis with blood sugar over 400, dehydrated and vomiting.",Emergency
+"Pregnant woman at 32 weeks with severe bleeding and cramping, possible placental abruption.",Emergency
+"Chemical burn to eyes from industrial accident, unable to open eyes, severe pain.",Emergency
+"Child with high fever and stiff neck, possible meningitis, lethargic and photophobic.",Emergency
+"Elder abuse suspected, multiple unexplained bruises and fractures, patient fearful.",Emergency
+"Acute psychosis with violent behavior, requiring immediate psychiatric intervention.",Emergency
+Massive gastrointestinal bleeding with hematemesis and hypotension.,Emergency
+"Acute myocardial infarction with ST elevation on EKG, crushing chest pain.",Emergency
+"Respiratory failure requiring immediate intubation, oxygen saturation below 70%.",Emergency
+"Septic shock with fever, altered mental status, and dropping blood pressure.",Emergency
+"Acute stroke with aphasia and right-sided paralysis, within therapeutic window.",Emergency
+Severe allergic reaction with laryngeal edema and difficulty swallowing.,Emergency
+"Multi-system trauma from motorcycle accident, unstable vital signs.",Emergency
+"Active labor with cord prolapse, emergency cesarean section needed.",Emergency
+Acute pulmonary embolism with chest pain and severe shortness of breath.,Emergency
+"Diabetic coma with blood sugar below 30, unresponsive to stimuli.",Emergency
+Acute aortic dissection with tearing chest pain radiating to back.,Emergency
+Severe burns covering 40% of body surface area from house fire.,Emergency
+Acute kidney failure with dangerously high potassium levels.,Emergency
+"Tension pneumothorax with mediastinal shift, immediate decompression needed.",Emergency
+Acute liver failure with jaundice and encephalopathy.,Emergency
+"Severe hypothermia with core temperature 85°F, cardiac arrhythmias.",Emergency
+Active psychotic episode with command hallucinations to harm others.,Emergency
+Severe electrolyte imbalance causing cardiac arrhythmias.,Emergency
+Acute pancreatitis with severe abdominal pain and elevated enzymes.,Emergency
+"Status asthmaticus unresponsive to bronchodilators, severe respiratory distress.",Emergency
+"Acute appendicitis with peritonitis, rigid abdomen and high fever.",Emergency
+Severe preeclampsia with seizures and dangerously high blood pressure.,Emergency
+Carbon monoxide poisoning with altered mental status and cherry-red skin.,Emergency
+Acute bowel obstruction with vomiting and severe abdominal distension.,Emergency
+Severe decompensated heart failure with pulmonary edema.,Emergency
+"Acute meningitis with neck stiffness, high fever, and altered consciousness.",Emergency
+Hypertensive emergency with blood pressure 220/130 and end-organ damage.,Emergency
+"Acute compartment syndrome in leg after fracture, losing pulse.",Emergency
+"Severe hypoglycemia in diabetic patient, altered mental status.",Emergency
+Acute intracranial hemorrhage with increasing intracranial pressure.,Emergency
+Severe asthma attack with peak flow less than 50% of normal.,Emergency
+"Acute cholangitis with Charcot's triad of fever, jaundice, and abdominal pain.",Emergency
+Severe drug overdose with respiratory depression and altered consciousness.,Emergency
+Acute testicular torsion with severe scrotal pain and swelling.,Emergency
+Severe hyperkalemia with peaked T-waves on EKG.,Emergency
+Acute epiglottitis with drooling and difficulty swallowing.,Emergency
+Severe hyperthermia with core temperature 107°F and altered mental status.,Emergency
+Severe multi-organ failure requiring intensive care.,Emergency
+Acute respiratory distress syndrome with mechanical ventilation needed.,Emergency
+Massive stroke with complete neurological deficit.,Emergency
+Cardiogenic shock with severely reduced cardiac output.,Emergency
+Acute renal failure requiring immediate dialysis.,Emergency
+Severe trauma with hemorrhagic shock and multiple fractures.,Emergency
+Acute liver transplant rejection with organ failure.,Emergency
+Severe sepsis with multiple organ dysfunction.,Emergency
+Acute coronary syndrome with cardiogenic shock.,Emergency
+Severe anaphylaxis with cardiovascular collapse.,Emergency
+Acute spinal cord injury with paralysis.,Emergency
+Severe diabetic ketoacidosis with coma.,Emergency
+Acute massive pulmonary embolism with right heart strain.,Emergency
+Severe burns with smoke inhalation injury.,Emergency
+Acute intoxication with coma and respiratory depression.,Emergency
+Severe traumatic brain injury with increased intracranial pressure.,Emergency
+Acute aortic rupture with massive bleeding.,Emergency
+Severe hypotensive shock from blood loss.,Emergency
+Acute airway obstruction requiring emergency tracheostomy.,Emergency
+Severe electrocution injury with cardiac arrest.,Emergency
+Acute hemolytic transfusion reaction with fever and hemoglobinuria.,Emergency
+Severe necrotizing fasciitis with rapidly spreading infection.,Emergency
+Acute superior vena cava syndrome with facial swelling and dyspnea.,Emergency
+Severe hypercalcemia with altered mental status and cardiac arrhythmias.,Emergency
+Acute adrenal crisis with hypotension and electrolyte imbalance.,Emergency
+Severe acute cholangitis with sepsis and biliary obstruction.,Emergency
+Acute thyroid storm with hyperthermia and tachycardia.,Emergency
+Severe hypoxemic respiratory failure requiring ECMO.,Emergency
+Acute fulminant hepatitis with encephalopathy.,Emergency
+Severe hypernatremia with seizures and altered consciousness.,Emergency
+Acute compartment syndrome in forearm after crush injury.,Emergency
+Severe rhabdomyolysis with acute kidney injury.,Emergency
+Acute pericardial tamponade with hemodynamic compromise.,Emergency
+Severe acute pancreatitis with organ failure.,Emergency
+Acute severe asthma with impending respiratory failure.,Emergency
+Severe acute mountain sickness with cerebral edema.,Emergency
+Acute severe decompression sickness from diving accident.,Emergency
+Severe heat stroke with core temperature 108°F and neurological symptoms.,Emergency
+Acute severe altitude sickness with pulmonary edema.,Emergency
+Severe acute radiation syndrome with bone marrow suppression.,Emergency
+Acute severe organophosphate poisoning with cholinergic crisis.,Emergency
+Severe acute methanol poisoning with metabolic acidosis and blindness.,Emergency
+Acute severe salicylate poisoning with altered mental status.,Emergency
+Severe acute lithium toxicity with neurological symptoms.,Emergency
+Acute severe digoxin toxicity with cardiac arrhythmias.,Emergency
+Severe acute iron poisoning with gastrointestinal bleeding.,Emergency
+Acute severe acetaminophen overdose with liver failure.,Emergency
+Severe acute beta-blocker overdose with bradycardia and hypotension.,Emergency
+Acute severe calcium channel blocker toxicity with shock.,Emergency
+Severe acute tricyclic antidepressant overdose with seizures.,Emergency
+"Experiencing extremitylaceration, and leginjury.",Urgent Care
+Patient says they have headachere evaluation.,Urgent Care
+Came in due to bodyfluidexposure.,Urgent Care
+Presenting complaint: abdominalpain.,Urgent Care
+"Stating they feel abdominalpain, and emesis.",Urgent Care
+Patient reports dehydration.,Urgent Care
+Came in due to decreasedbloodsugar symptomatic.,Urgent Care
+"Stating they feel fever 9weeksto74years, and flankpain.",Urgent Care
+Complains of hematuria.,Urgent Care
+Symptoms include facialswelling.,Urgent Care
+Patient says they have headache newonsetornewsymptoms.,Urgent Care
+"Symptoms include headache recurrentorknowndxmigraines, and weakness.",Urgent Care
+Stating they feel vaginalbleeding.,Urgent Care
+Stating they feel alcoholintoxication.,Urgent Care
+Patient reports fall.,Urgent Care
+"Experiencing fall, and headinjury.",Urgent Care
+Patient says they have drugproblem.,Urgent Care
+Complains of drug/alcoholassessment.,Urgent Care
+Experiencing weakness.,Urgent Care
+Experiencing hypertension.,Urgent Care
+"Admitted after experiencing abdominalpain, backpain, and fall.",Urgent Care
+Complains of abnormallab.,Urgent Care
+Complains of psychiatricevaluation.,Urgent Care
+"Patient says they have diarrhea, fever 9weeksto74years, and headache newonsetornewsymptoms.",Urgent Care
+Experiencing extremitylaceration.,Urgent Care
+Admitted after experiencing numbness.,Urgent Care
+Experiencing breathingdifficulty.,Urgent Care
+"Symptoms include flankpain, and testiclepain.",Urgent Care
+"Came in due to abdominalpain, and syncope.",Urgent Care
+Patient says they have legswelling.,Urgent Care
+Came in due to fingerinjury.,Urgent Care
+Symptoms include abdominalcramping.,Urgent Care
+Complains of burn.,Urgent Care
+"Complains of dizziness, and weakness.",Urgent Care
+Patient says they have headinjury.,Urgent Care
+"Patient says they have extremitylaceration, and handinjury.",Urgent Care
+"Symptoms include diarrhea, emesis, and headache newonsetornewsymptoms.",Urgent Care
+Experiencing dizziness.,Regular Hospital Appointment
+Stating they feel emesis.,Regular Hospital Appointment
+Experiencing kneepain.,Regular Hospital Appointment
+Came in due to fever 9weeksto74years.,Regular Hospital Appointment
+Presenting complaint: flankpain.,Regular Hospital Appointment
+Admitted after experiencing earpain.,Regular Hospital Appointment
+Symptoms include medicalproblem.,Regular Hospital Appointment
+Admitted after experiencing cough.,Regular Hospital Appointment
+Presenting complaint: giproblem.,Regular Hospital Appointment
+Symptoms include ankleinjury.,Regular Hospital Appointment
+Came in due to anklepain.,Regular Hospital Appointment
+Experiencing neckpain.,Regular Hospital Appointment
+Came in due to wristpain.,Regular Hospital Appointment
+Came in due to shoulderpain.,Regular Hospital Appointment
+Symptoms include coldlikesymptoms.,Regular Hospital Appointment
+Complains of laceration.,Regular Hospital Appointment
+Complains of woundcheck.,Regular Hospital Appointment
+Stating they feel nausea.,Regular Hospital Appointment
+Presenting complaint: influenza.,Regular Hospital Appointment
+Patient says they have rash.,Regular Hospital Appointment
+Experiencing facialpain.,Regular Hospital Appointment
+Stating they feel hippain.,Regular Hospital Appointment
+Patient says they have vaginalpain.,Regular Hospital Appointment
+Patient reports migraine.,Regular Hospital Appointment
+Admitted after experiencing femaleguproblem.,Regular Hospital Appointment
+Admitted after experiencing otalgia.,Regular Hospital Appointment
+Came in due to abscess.,Regular Hospital Appointment
+Patient says they have cyst.,Regular Hospital Appointment
+Presenting complaint: backpain.,Regular Hospital Appointment
+Presenting complaint: medicalscreening.,Regular Hospital Appointment
+Experiencing toepain.,Regular Hospital Appointment
+Presenting complaint: woundinfection.,Regular Hospital Appointment
+Experiencing suture/stapleremoval.,Regular Hospital Appointment
+Presenting complaint: dentalpain.,Regular Hospital Appointment
+Experiencing legpain.,Regular Hospital Appointment
+Patient reports generalizedbodyaches.,Regular Hospital Appointment
+Patient says they have dysuria.,Regular Hospital Appointment
+Presenting complaint: eyeproblem.,Regular Hospital Appointment
+Patient reports headache recurrentorknowndxmigraines.,Regular Hospital Appointment
+Came in due to fingerinjury.,Regular Hospital Appointment
+Complains of armpain.,Regular Hospital Appointment
+Presenting complaint: handpain.,Regular Hospital Appointment
+Stating they feel diarrhea.,Regular Hospital Appointment
+"Admitted after experiencing abdominalpain, and coldlikesymptoms.",Regular Hospital Appointment
+Complains of arminjury.,Regular Hospital Appointment
+"Experiencing fall, and handpain.",Regular Hospital Appointment
+Symptoms include kneeinjury.,Regular Hospital Appointment
+Admitted after experiencing fingerpain.,Regular Hospital Appointment
+Experiencing fatigue.,Regular Hospital Appointment
+Presenting complaint: headache.,Regular Hospital Appointment
+"Stating they feel earpain, and sorethroat.",Regular Hospital Appointment
+Stating they feel sorethroat.,Regular Hospital Appointment
+Patient reports insectbite.,Regular Hospital Appointment
+"Minor laceration requiring few stitches, bleeding minimal.",Regular Hospital Appointment
+Routine follow-up for chronic condition management.,Regular Hospital Appointment
+Annual physical examination and preventive care.,Regular Hospital Appointment
+Minor sprain with mild pain and swelling.,Regular Hospital Appointment
+Common cold with mild congestion and cough.,Regular Hospital Appointment
+Routine medication refill and blood pressure check.,Regular Hospital Appointment
+Minor skin rash without systemic symptoms.,Regular Hospital Appointment
+"Routine prenatal check-up, no complications.",Regular Hospital Appointment
+Minor headache responsive to over-the-counter medication.,Regular Hospital Appointment
+Routine diabetes follow-up with stable blood sugars.,Regular Hospital Appointment
+Minor joint pain without significant limitation.,Regular Hospital Appointment
+Routine vaccination appointment.,Regular Hospital Appointment
+Minor digestive upset with mild nausea.,Regular Hospital Appointment
+Routine cholesterol screening and health maintenance.,Regular Hospital Appointment
+Minor insomnia without underlying psychiatric issues.,Regular Hospital Appointment
+Routine eye examination for prescription update.,Regular Hospital Appointment
+Minor fatigue without associated symptoms.,Regular Hospital Appointment
+Routine mammography screening.,Regular Hospital Appointment
+Minor constipation without abdominal pain.,Regular Hospital Appointment
+Routine colonoscopy screening.,Regular Hospital Appointment
+Minor seasonal allergies with mild symptoms.,Regular Hospital Appointment
+Routine blood work for medication monitoring.,Regular Hospital Appointment
+Minor muscle soreness after exercise.,Regular Hospital Appointment
+Routine gynecological examination.,Regular Hospital Appointment
+Minor dry skin without signs of infection.,Regular Hospital Appointment
+Routine cardiac follow-up with stable condition.,Regular Hospital Appointment
+Minor weight management consultation.,Regular Hospital Appointment
+"Routine mental health check-in, stable mood.",Regular Hospital Appointment
+Minor sleep concerns without sleep apnea.,Regular Hospital Appointment
+Routine osteoporosis screening.,Regular Hospital Appointment
+Minor nail fungus treatment follow-up.,Regular Hospital Appointment
+Routine smoking cessation counseling.,Regular Hospital Appointment
+Minor dietary consultation for chronic disease.,Regular Hospital Appointment
+Routine immunization for travel.,Regular Hospital Appointment
+Minor joint stiffness in the morning.,Regular Hospital Appointment
+Routine hearing examination.,Regular Hospital Appointment
+Minor occasional dizziness without falls.,Regular Hospital Appointment
+Routine skin cancer screening.,Regular Hospital Appointment
+Minor intermittent heartburn.,Regular Hospital Appointment
+Routine prostate examination.,Regular Hospital Appointment
+Presenting complaint: elevatedbloodsugar nosymptoms.,Regular Hospital Appointment
+Presenting complaint: elbowpain.,Regular Hospital Appointment
+Came in due to urinarytractinfection.,Regular Hospital Appointment
+"Presenting complaint: abscess, and vaginalpain.",Regular Hospital Appointment
+Routine thyroid function monitoring.,Regular Hospital Appointment
+Minor plantar fasciitis with heel pain.,Regular Hospital Appointment
+Routine bone density screening.,Regular Hospital Appointment
+"Minor tension headaches, manageable with rest.",Regular Hospital Appointment
+Routine dermatology check for mole monitoring.,Regular Hospital Appointment
+Minor seasonal depression counseling.,Regular Hospital Appointment
+Routine blood pressure monitoring for borderline hypertension.,Regular Hospital Appointment
+Minor gastroesophageal reflux disease management.,Regular Hospital Appointment
+Routine diabetic foot examination.,Regular Hospital Appointment
+Minor chronic fatigue syndrome follow-up.,Regular Hospital Appointment
+Routine pulmonary function testing.,Regular Hospital Appointment
+Minor osteoarthritis pain management.,Regular Hospital Appointment
+Routine cardiac stress test for screening.,Regular Hospital Appointment
+Minor benign prostatic hyperplasia follow-up.,Regular Hospital Appointment
+Routine medication side effect monitoring.,Regular Hospital Appointment
+Minor menopausal symptom management.,Regular Hospital Appointment
+Routine sleep study consultation.,Regular Hospital Appointment
+Minor chronic kidney disease monitoring.,Regular Hospital Appointment
+Routine nutritional counseling for diabetes.,Regular Hospital Appointment
+Minor chronic back pain physical therapy follow-up.,Regular Hospital Appointment
+Routine colonoscopy follow-up for polyp surveillance.,Regular Hospital Appointment
+Minor peripheral neuropathy with mild tingling.,Regular Hospital Appointment
+Routine cardiac rehabilitation follow-up.,Regular Hospital Appointment
+Minor chronic sinusitis management.,Regular Hospital Appointment
+Routine osteoporosis treatment monitoring.,Regular Hospital Appointment
+Minor irritable bowel syndrome symptom management.,Regular Hospital Appointment
+Routine hypertension medication adjustment.,Regular Hospital Appointment
+Minor chronic migraine prevention follow-up.,Regular Hospital Appointment
+Routine diabetes education and counseling.,Regular Hospital Appointment
+Minor benign essential tremor evaluation.,Regular Hospital Appointment
+Routine lipid disorder management.,Regular Hospital Appointment
+Minor chronic anxiety disorder follow-up.,Regular Hospital Appointment
+Routine anticoagulation monitoring for atrial fibrillation.,Regular Hospital Appointment
+Minor chronic dry eye syndrome treatment.,Regular Hospital Appointment
+Routine COPD stable management and inhaler technique.,Regular Hospital Appointment
+Minor chronic low back pain stretching program.,Regular Hospital Appointment
+Routine thyroid nodule monitoring with ultrasound.,Regular Hospital Appointment
+Minor seasonal affective disorder light therapy.,Regular Hospital Appointment
+Routine chronic kidney disease nephrology follow-up.,Regular Hospital Appointment
+Minor chronic insomnia sleep hygiene counseling.,Regular Hospital Appointment
+Routine rheumatoid arthritis disease monitoring.,Regular Hospital Appointment
+Minor chronic fatigue syndrome energy conservation.,Regular Hospital Appointment
+Routine psoriasis topical treatment adjustment.,Regular Hospital Appointment
+Minor chronic constipation dietary modification.,Regular Hospital Appointment
+Routine multiple sclerosis neurological assessment.,Regular Hospital Appointment
+Minor chronic pain mindfulness meditation training.,Regular Hospital Appointment
+Routine lupus autoimmune marker monitoring.,Regular Hospital Appointment
+Minor chronic dizziness vestibular therapy.,Regular Hospital Appointment
+Routine inflammatory bowel disease remission monitoring.,Regular Hospital Appointment
+Minor chronic headache trigger identification.,Regular Hospital Appointment
