@@ -148,12 +148,14 @@ const VapiWidget: React.FC<VapiWidgetProps> = ({
             overflow: 'hidden'
           }}
           onMouseEnter={(e) => {
-            e.target.style.transform = 'scale(1.1)';
-            e.target.style.boxShadow = '0 12px 35px rgba(59, 130, 246, 0.4)';
+            const target = e.target as HTMLButtonElement;
+            target.style.transform = 'scale(1.1)';
+            target.style.boxShadow = '0 12px 35px rgba(59, 130, 246, 0.4)';
           }}
           onMouseLeave={(e) => {
-            e.target.style.transform = 'scale(1)';
-            e.target.style.boxShadow = '0 8px 25px rgba(59, 130, 246, 0.3)';
+            const target = e.target as HTMLButtonElement;
+            target.style.transform = 'scale(1)';
+            target.style.boxShadow = '0 8px 25px rgba(59, 130, 246, 0.3)';
           }}
         >
           {/* Microphone Icon */}
