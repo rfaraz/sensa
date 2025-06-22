@@ -4,12 +4,30 @@ import PatientDashboard from "@/components/PatientDashboard"
 
 export default function DashboardPage() {
   // Define a type for your dashboard data
+  type PatientDataType = {
+    name: string
+    age: number
+    gender: string
+    phone: string
+    callDate: string
+    duration: string
+    urgency: string
+  }
+
+  type ExtractedSymptom = {
+    symptom: string
+    severity: string
+    duration: string
+    location: string
+    description: string
+  }
+
   type DashboardData = {
-    patientData: any
-    transcript: any
-    extractedSymptoms: any
-    actions: any
-    clinicalNotes: any
+    patientData: PatientDataType
+    transcript: string
+    extractedSymptoms: ExtractedSymptom[]
+    actions?: any
+    clinicalNotes?: any
   }
 
   const [dashboardData, setDashboardData] = useState<DashboardData | null>(null)

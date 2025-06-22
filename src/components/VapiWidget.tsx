@@ -10,8 +10,7 @@ interface VapiWidgetProps {
 
 const VapiWidget: React.FC<VapiWidgetProps> = ({ 
   apiKey, 
-  assistantId, 
-  config = {} 
+  assistantId
 }) => {
   const [vapi, setVapi] = useState<Vapi | null>(null);
   const [isConnected, setIsConnected] = useState(false);
