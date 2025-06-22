@@ -6,8 +6,18 @@ interface InteractiveBlueBackgroundProps {
 
 const InteractiveBlueBackground = ({ children }: InteractiveBlueBackgroundProps) => {
   const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
-  const [particles, setParticles] = useState([]);
-  const containerRef = useRef(null);
+  interface Particle {
+    id: number;
+    x: number;
+    y: number;
+    size: number;
+    speedX: number;
+    speedY: number;
+    opacity: number;
+  }
+  
+  const [particles, setParticles] = useState<Particle[]>([]);
+  const containerRef = useRef<HTMLDivElement>(null);
 
   // Generate initial particles
   useEffect(() => {
@@ -37,7 +47,7 @@ const InteractiveBlueBackground = ({ children }: InteractiveBlueBackgroundProps)
   }, []);
 
   // Track mouse movement
-  const handleMouseMove = (e) => {
+  const handleMouseMove = (e: { clientX: number; clientY: number; }) => {
     if (containerRef.current) {
       const rect = containerRef.current.getBoundingClientRect();
       setMousePos({
