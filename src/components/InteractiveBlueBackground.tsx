@@ -1,6 +1,10 @@
 import React, { useState, useEffect, useRef } from 'react';
 
-const InteractiveBlueBackground = ({ children }) => {
+interface InteractiveBlueBackgroundProps {
+  children: React.ReactNode;
+}
+
+const InteractiveBlueBackground = ({ children }: InteractiveBlueBackgroundProps) => {
   const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
   const [particles, setParticles] = useState([]);
   const containerRef = useRef(null);
