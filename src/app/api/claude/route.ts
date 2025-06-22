@@ -84,6 +84,7 @@ export async function POST(req: NextRequest) {
     const parsed = JSON.parse(message);
     return NextResponse.json({ result: parsed });
   } catch (error) {
+    console.error("Error parsing Claude output:", error);
     return NextResponse.json({
       error: "Failed to parse Claude output",
       raw: message,

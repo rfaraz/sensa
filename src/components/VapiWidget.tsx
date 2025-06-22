@@ -6,7 +6,6 @@ import { useRouter } from 'next/navigation';
 interface VapiWidgetProps {
   apiKey: string;
   assistantId: string;
-  config?: Record<string, unknown>;
 }
 
 const VapiWidget: React.FC<VapiWidgetProps> = ({ 
@@ -41,9 +40,6 @@ const VapiWidget: React.FC<VapiWidgetProps> = ({
       console.log('Call started');
       const now = new Date();
       vapiCallStartTime = now.getTime();
-      const hours = now.getHours().toString().padStart(2, '0');
-      const minutes = now.getMinutes().toString().padStart(2, '0');
-      //const militaryTime = `${hours}:${minutes}`;
       setIsConnected(true);
       setTranscript([]); // Clear transcript on call end
     });

@@ -3,7 +3,16 @@ import { useEffect, useState } from "react"
 import PatientDashboard from "@/components/PatientDashboard"
 
 export default function DashboardPage() {
-  const [dashboardData, setDashboardData] = useState<any | null>(null)
+  // Define a type for your dashboard data
+  type DashboardData = {
+    patientData: any
+    transcript: any
+    extractedSymptoms: any
+    actions: any
+    clinicalNotes: any
+  }
+
+  const [dashboardData, setDashboardData] = useState<DashboardData | null>(null)
 
   useEffect(() => {
     const stored = localStorage.getItem("dashboardData")

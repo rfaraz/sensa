@@ -2,7 +2,7 @@ import { useState, useEffect } from "react"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Activity, AlertTriangle, Calendar, Clock, FileText, Phone, Stethoscope, User, Home, Download, Printer } from "lucide-react"
+import { Activity, AlertTriangle, Calendar, Clock, FileText, Phone, Stethoscope, User, Home, Printer } from "lucide-react"
 
 interface PatientDashboardProps {
   patientData: {
@@ -298,7 +298,7 @@ export default function PatientDashboard({
                         </div>
                       </div>
                       {item.description && (
-                        <p className="text-sm text-gray-700 mt-2 italic">"{item.description}"</p>
+                        <p className="text-sm text-gray-700 mt-2 italic">{item.description}</p>
                       )}
                     </div>
                   ))}
