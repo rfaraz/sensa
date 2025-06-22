@@ -2,7 +2,7 @@ import { useState, useEffect } from "react"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Activity, AlertTriangle, Calendar, Clock, FileText, Phone, Stethoscope, User, Home, Download } from "lucide-react"
+import { Activity, AlertTriangle, Calendar, Clock, FileText, Phone, Stethoscope, User, Home, Download, Printer } from "lucide-react"
 
 interface PatientDashboardProps {
   patientData: {
@@ -155,8 +155,7 @@ export default function PatientDashboard({
             className="text-blue-900 bg-gray-50 hover:bg-gray-100"
             onClick={() => window.print()}
           >
-            <Download style={{ width: "24px", height: "24px" }} />
-            Print Report
+            <Printer style={{ width: "24px", height: "24px" }} />
           </Button>
           
           {/* Debug button to test formats */}
@@ -298,9 +297,9 @@ export default function PatientDashboard({
                           <span className="font-medium">Location:</span> {item.location || 'Not specified'}
                         </div>
                       </div>
-                      {{item.description && (
-                          <p className="text-sm text-gray-700 mt-2 italic">{`"${item.description}"`}</p>
-                        )}
+                      {item.description && (
+                        <p className="text-sm text-gray-700 mt-2 italic">"{item.description}"</p>
+                      )}
                     </div>
                   ))}
                 </div>
