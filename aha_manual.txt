@@ -1,0 +1,2662 @@
+
+                    <caption>Positioning of the Ill or Injured Person for First Aid</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{29617D27-7D97-48B4-A189-B9F2B1E8C1BC}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{29617D27-7D97-48B4-A189-B9F2B1E8C1BC}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{29617D27-7D97-48B4-A189-B9F2B1E8C1BC} hdr-loe Col2-{29617D27-7D97-48B4-A189-B9F2B1E8C1BC} hdr-rec">1. If a person requires CPR or rescue breathing (ie, is unresponsive with absent or abnormal breathing), the first aid provider should position the person supine and follow the CPR algorithm.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{F46A2AAC-A2BE-4C6E-A07E-BCBA6DEF20D7}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{F46A2AAC-A2BE-4C6E-A07E-BCBA6DEF20D7}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{F46A2AAC-A2BE-4C6E-A07E-BCBA6DEF20D7} hdr-loe Col2-{F46A2AAC-A2BE-4C6E-A07E-BCBA6DEF20D7} hdr-rec">2. A first aid provider who is assisting a person with a potentially serious illness or injury should immediately activate the emergency response system.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{20027907-2E57-4EA6-A5C8-5062A9CE9A6C}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{20027907-2E57-4EA6-A5C8-5062A9CE9A6C}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{20027907-2E57-4EA6-A5C8-5062A9CE9A6C} hdr-loe Col2-{20027907-2E57-4EA6-A5C8-5062A9CE9A6C} hdr-rec">3. A first aid provider who is assisting a person with a potentially serious illness or injury should remain with the person until trained rescuers arrive as long as it is safe to do so.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{C0F824CC-78FE-4733-8373-530E8D01BE64}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{C0F824CC-78FE-4733-8373-530E8D01BE64}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{C0F824CC-78FE-4733-8373-530E8D01BE64} hdr-loe Col2-{C0F824CC-78FE-4733-8373-530E8D01BE64} hdr-rec">4. If the area is unsafe, the first aid provider should move an ill or injured person to a safe location if possible and safe for the first aid provider to do so.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{5DE0BFCE-71B0-4FA5-B7B9-D57DA24379E6}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{5DE0BFCE-71B0-4FA5-B7B9-D57DA24379E6}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{5DE0BFCE-71B0-4FA5-B7B9-D57DA24379E6} hdr-loe Col2-{5DE0BFCE-71B0-4FA5-B7B9-D57DA24379E6} hdr-rec">5. If a person has been injured, is responsive, and is breathing normally and the nature of the injury suggests a neck, back, hip, or pelvic injury, the person should be left in the position in which they were found to avoid potential further injury unless the area is unsafe.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{3983D903-D625-42FF-8F76-B63ED4CB6F4B}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{3983D903-D625-42FF-8F76-B63ED4CB6F4B}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{3983D903-D625-42FF-8F76-B63ED4CB6F4B} hdr-loe Col2-{3983D903-D625-42FF-8F76-B63ED4CB6F4B} hdr-rec">6. An awake and alert person who is having difficulty breathing should be allowed to assume a position most comfortable for breathing, which will be sitting up in most situations.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{6BFAE9CC-54B8-4B0C-9A73-7FF12FAC6226}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{6BFAE9CC-54B8-4B0C-9A73-7FF12FAC6226}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{6BFAE9CC-54B8-4B0C-9A73-7FF12FAC6226} hdr-loe Col2-{6BFAE9CC-54B8-4B0C-9A73-7FF12FAC6226} hdr-rec">7. Individuals who are ill or injured should be protected from hyperthermia or hypothermia due to exposure.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{7ABBACA5-7A61-4B73-BA87-779554A3EA8D}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{7ABBACA5-7A61-4B73-BA87-779554A3EA8D}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{7ABBACA5-7A61-4B73-BA87-779554A3EA8D} hdr-loe Col2-{7ABBACA5-7A61-4B73-BA87-779554A3EA8D} hdr-rec">8. It is reasonable to position a person with decreased alertness of nontraumatic cause who is breathing normally in a recovery (side-lying) position.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END COLOR CODED -->
+
+<div  ID=52pos  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid Positioning of the Person in Shock</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{7A1C3F9B-2041-4D0C-81DD-3D8C7CB41368}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{7A1C3F9B-2041-4D0C-81DD-3D8C7CB41368}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{7A1C3F9B-2041-4D0C-81DD-3D8C7CB41368} hdr-loe Col2-{7A1C3F9B-2041-4D0C-81DD-3D8C7CB41368} hdr-rec">1. If a person shows evidence of shock with a normal level of alertness, it is reasonable to place or maintain the person in a supine position.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{4A2C95EB-F226-4E0A-8A55-D859692C0AE4}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{4A2C95EB-F226-4E0A-8A55-D859692C0AE4}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{4A2C95EB-F226-4E0A-8A55-D859692C0AE4} hdr-loe Col2-{4A2C95EB-F226-4E0A-8A55-D859692C0AE4} hdr-rec">2. If a person showing signs of shock is at risk for airway obstruction (decreased alertness, active vomiting) or cannot be continuously watched, it is reasonable to place the person in the recovery position.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{6994BC96-D63B-4061-9836-79135CF1E3C7}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{6994BC96-D63B-4061-9836-79135CF1E3C7}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{6994BC96-D63B-4061-9836-79135CF1E3C7} hdr-loe Col2-{6994BC96-D63B-4061-9836-79135CF1E3C7} hdr-rec">3. If there is no evidence of trauma or injury (eg, simple fainting, shock from nontraumatic bleeding, sepsis, dehydration), raising the feet about 6 to 12 in (&asymp;30&deg;&ndash;45&deg;) from supine position may be reasonable while awaiting the arrival of EMS.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{0CBF68B8-3C93-4EA2-A2AC-403E8C4AD28A}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{0CBF68B8-3C93-4EA2-A2AC-403E8C4AD28A}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{0CBF68B8-3C93-4EA2-A2AC-403E8C4AD28A} hdr-loe Col2-{0CBF68B8-3C93-4EA2-A2AC-403E8C4AD28A} hdr-rec">4. If a person is placed in a leg-raised position that results in pain, discomfort, or worsened symptoms, returning the person to a supine position may be considered.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END COLOR CODED -->
+
+<div  ID=53ao  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>Administration of Oxygen in First Aid</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{EEAE6BFE-BD74-4484-86FB-D3A1B6940459}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{EEAE6BFE-BD74-4484-86FB-D3A1B6940459}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{EEAE6BFE-BD74-4484-86FB-D3A1B6940459} hdr-loe Col2-{EEAE6BFE-BD74-4484-86FB-D3A1B6940459} hdr-rec">1. The effectiveness/usefulness of oxygen administered in the first aid setting for adults or children exhibiting signs or symptoms of shortness of breath, difficulty breathing, or hypoxia is unknown.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{A1C6DA24-CC8B-437D-929F-135C09B1363A}" scope="row" class="ecc-bg--cor-3nobenefit">3: No Benefit</th>
+        <th id="Col2-{A1C6DA24-CC8B-437D-929F-135C09B1363A}" scope="row" class="ecc-bg--loe-br">B-R</th>
+        <td headers="hdr-cor Col1-{A1C6DA24-CC8B-437D-929F-135C09B1363A} hdr-loe Col2-{A1C6DA24-CC8B-437D-929F-135C09B1363A} hdr-rec">2. It is not beneficial to administer oxygen over room air in the first aid setting for adults experiencing acute stroke.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{1C366EB5-2CFA-4883-8FA1-854AA42DA072}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{1C366EB5-2CFA-4883-8FA1-854AA42DA072}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{1C366EB5-2CFA-4883-8FA1-854AA42DA072} hdr-loe Col2-{1C366EB5-2CFA-4883-8FA1-854AA42DA072} hdr-rec">3. It is potentially harmful for first aid providers to administer supplementary oxygen to a person with known chronic obstructive pulmonary disease to an oxygen saturation &gt;92%.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- COLOR CODED -->
+
+
+<div  ID=54pofa  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>Use of Pulse Oximetry in First Aid</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{15E745D3-97E0-428F-B098-E9C1DD8CD1D6}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{15E745D3-97E0-428F-B098-E9C1DD8CD1D6}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{15E745D3-97E0-428F-B098-E9C1DD8CD1D6} hdr-loe Col2-{15E745D3-97E0-428F-B098-E9C1DD8CD1D6} hdr-rec">1. A physical examination and history should be the primary assessment methods for first aid providers to evaluate an ill or injured person.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{18CEFBBD-9A32-4D5A-82E4-EB905D9C5A69}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{18CEFBBD-9A32-4D5A-82E4-EB905D9C5A69}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{18CEFBBD-9A32-4D5A-82E4-EB905D9C5A69} hdr-loe Col2-{18CEFBBD-9A32-4D5A-82E4-EB905D9C5A69} hdr-rec">2. It is reasonable for first aid providers to use pulse oximetry results in the context of a complete assessment and to be aware of the limitations of pulse oximetry before acting on any results.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- COLOR CODED -->
+
+<div  ID=61basb  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid Recommendations for Assisting a Person Experiencing an Asthma Attack With Using Their Own Inhaled Bronchodilator Medication</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{C0828276-840B-4D4F-A55D-5A26A6FAF2BC}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{C0828276-840B-4D4F-A55D-5A26A6FAF2BC}" scope="row" class="ecc-bg--loe-br">B-R</th>
+        <td headers="hdr-cor Col1-{C0828276-840B-4D4F-A55D-5A26A6FAF2BC} hdr-loe Col2-{C0828276-840B-4D4F-A55D-5A26A6FAF2BC} hdr-rec">1. First aid providers should assist a person with asthma who is having difficulty breathing with the administration of their own prescribed bronchodilators as needed.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{E5DA097A-3820-4F9E-B9D0-C7CA269720B9}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{E5DA097A-3820-4F9E-B9D0-C7CA269720B9}" scope="row" class="ecc-bg--loe-br">B-R</th>
+        <td headers="hdr-cor Col1-{E5DA097A-3820-4F9E-B9D0-C7CA269720B9} hdr-loe Col2-{E5DA097A-3820-4F9E-B9D0-C7CA269720B9} hdr-rec">2. It is reasonable to use either an inhaler with a spacer or a nebulizer when assisting a person with asthma to use their own inhaled bronchodilator medication, in preference to using an inhaler alone.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{F94ABBD1-C608-46BC-BA7B-BE549DBE1821}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{F94ABBD1-C608-46BC-BA7B-BE549DBE1821}" scope="row" class="ecc-bg--loe-br">B-R</th>
+        <td headers="hdr-cor Col1-{F94ABBD1-C608-46BC-BA7B-BE549DBE1821} hdr-loe Col2-{F94ABBD1-C608-46BC-BA7B-BE549DBE1821} hdr-rec">3. If a commercially available spacer is not available, it is reasonable to use an improvised spacer when assisting a person who is having an asthma attack to use their own inhaled bronchodilator medication.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div  ID=62rsa  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>Recognition of Stroke in the First Aid Setting—Adults</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{425FAE45-C3CC-4425-9372-672878974DD0}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{425FAE45-C3CC-4425-9372-672878974DD0}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{425FAE45-C3CC-4425-9372-672878974DD0} hdr-loe Col2-{425FAE45-C3CC-4425-9372-672878974DD0} hdr-rec">1. If stroke is suspected, the EMS system should be activated immediately.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{69CABB12-B06B-4DEE-8ECB-972A8BF8F7FF}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{69CABB12-B06B-4DEE-8ECB-972A8BF8F7FF}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{69CABB12-B06B-4DEE-8ECB-972A8BF8F7FF} hdr-loe Col2-{69CABB12-B06B-4DEE-8ECB-972A8BF8F7FF} hdr-rec">2. The use of a stroke recognition scale such as the Face, Arms, Speech, Time (FAST) or Cincinnati Prehospital Stroke Scale is recommended to aid in the recognition of acute stroke in adults.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{4F0BA419-BE55-419B-8C82-A4963EF74BC1}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{4F0BA419-BE55-419B-8C82-A4963EF74BC1}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{4F0BA419-BE55-419B-8C82-A4963EF74BC1} hdr-loe Col2-{4F0BA419-BE55-419B-8C82-A4963EF74BC1} hdr-rec">3. It is reasonable for first aid providers to measure capillary blood glucose in adults with suspected stroke if it is available and does not delay activating EMS.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- COLOR CODED -->
+
+<div  ID=63rsc  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>Recognition of Stroke in the First Aid Setting—Children</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{2E711FD5-D353-4DA6-8701-2A52C62CE5D2}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{2E711FD5-D353-4DA6-8701-2A52C62CE5D2}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{2E711FD5-D353-4DA6-8701-2A52C62CE5D2} hdr-loe Col2-{2E711FD5-D353-4DA6-8701-2A52C62CE5D2} hdr-rec">1. If pediatric stroke is suspected, EMS should be activated, and the person should be transported to an ED.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{9034FC0D-A158-4C9A-92FD-C5B18EB4C772}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{9034FC0D-A158-4C9A-92FD-C5B18EB4C772}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{9034FC0D-A158-4C9A-92FD-C5B18EB4C772} hdr-loe Col2-{9034FC0D-A158-4C9A-92FD-C5B18EB4C772} hdr-rec">2. It is reasonable to consider stroke when common pediatric symptoms are present in association with other neurological signs and symptoms.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{CE3A6E94-6906-4CAA-848B-D30A8ABEB631}" scope="row" class="ecc-bg--cor-3nobenefit">3: No Benefit</th>
+        <th id="Col2-{CE3A6E94-6906-4CAA-848B-D30A8ABEB631}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{CE3A6E94-6906-4CAA-848B-D30A8ABEB631} hdr-loe Col2-{CE3A6E94-6906-4CAA-848B-D30A8ABEB631} hdr-rec">3. Adult stroke scores are not validated in the pediatric population and should not solely be used to identify the broad presentation of stroke in children.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- COLOR CODED -->
+
+
+
+<div  ID=64chest  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Adults Experiencing Chest Pain</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{FC691765-C851-4AAB-BE2D-F7141CA58BDD}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{FC691765-C851-4AAB-BE2D-F7141CA58BDD}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{FC691765-C851-4AAB-BE2D-F7141CA58BDD} hdr-loe Col2-{FC691765-C851-4AAB-BE2D-F7141CA58BDD} hdr-rec">1. In adults with acute chest pain, the emergency response system should be activated to initiate transport to the closest ED by EMS.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{D4DBA7C8-A094-44CE-A47E-770EEDFEF143}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{D4DBA7C8-A094-44CE-A47E-770EEDFEF143}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{D4DBA7C8-A094-44CE-A47E-770EEDFEF143} hdr-loe Col2-{D4DBA7C8-A094-44CE-A47E-770EEDFEF143} hdr-rec">2. While awaiting the arrival of EMS, first aid providers may encourage alert adults experiencing non-traumatic chest pain to chew and swallow aspirin (162&ndash;325 mg), unless the person experiencing pain has a known aspirin allergy or has been advised by a health care professional not to take aspirin.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{55E47C64-177D-462F-B0C1-8400C6A562DD}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{55E47C64-177D-462F-B0C1-8400C6A562DD}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{55E47C64-177D-462F-B0C1-8400C6A562DD} hdr-loe Col2-{55E47C64-177D-462F-B0C1-8400C6A562DD} hdr-rec">3. If there is any uncertainty that aspirin should be taken, it is reasonable to wait for EMS arrival without administration of aspirin.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- COLOR CODED -->
+
+<div  ID=65anap  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Anaphylaxis</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{1E9EA544-D2E7-47F0-BC83-6ED292A18B2A}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{1E9EA544-D2E7-47F0-BC83-6ED292A18B2A}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{1E9EA544-D2E7-47F0-BC83-6ED292A18B2A} hdr-loe Col2-{1E9EA544-D2E7-47F0-BC83-6ED292A18B2A} hdr-rec">1. If a person experiences anaphylaxis and an epinephrine autoinjector is available, the person should self-administer the autoinjector.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{76F22A54-8F02-43D8-8488-E077D2C65566}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{76F22A54-8F02-43D8-8488-E077D2C65566}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{76F22A54-8F02-43D8-8488-E077D2C65566} hdr-loe Col2-{76F22A54-8F02-43D8-8488-E077D2C65566} hdr-rec">2. A first aid provider should assist a person experiencing anaphylaxis to use their autoinjector if assistance is required.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{988E5620-3CE4-4EA5-B02F-8D2BE61CF7CE}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{988E5620-3CE4-4EA5-B02F-8D2BE61CF7CE}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{988E5620-3CE4-4EA5-B02F-8D2BE61CF7CE} hdr-loe Col2-{988E5620-3CE4-4EA5-B02F-8D2BE61CF7CE} hdr-rec">3. If a person experiences anaphylaxis, the emergency response system should be activated.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{0ECA0036-BEAD-4CA2-BE32-2D1D8DE969FA}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{0ECA0036-BEAD-4CA2-BE32-2D1D8DE969FA}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{0ECA0036-BEAD-4CA2-BE32-2D1D8DE969FA} hdr-loe Col2-{0ECA0036-BEAD-4CA2-BE32-2D1D8DE969FA} hdr-rec">4. If a person with anaphylaxis does not respond to the initial dose of epinephrine and arrival of EMS will exceed 5 to 10 minutes, a repeat dose may be considered.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- COLOR CODED -->
+
+
+<div  ID=66seizure  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Seizures</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{2B79CDAA-B717-4BD2-AC64-0BBABF9B740A}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{2B79CDAA-B717-4BD2-AC64-0BBABF9B740A}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{2B79CDAA-B717-4BD2-AC64-0BBABF9B740A} hdr-loe Col2-{2B79CDAA-B717-4BD2-AC64-0BBABF9B740A} hdr-rec">1. First aid providers should activate EMS for individuals with first-time seizure; seizures lasting &gt;5 minutes; &gt;1 seizure that occurs without the person returning to baseline mental status in between; seizures occurring in the water; seizures with traumatic injuries, difficulty breathing, or choking; seizure in an infant &lt;6 months of age; seizure in pregnant individuals; or if the individual does not return to baseline within 5 to 10 minutes once seizure activity has stopped.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{90EEAA43-08B8-4B51-8ECC-1596CFD34135}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{90EEAA43-08B8-4B51-8ECC-1596CFD34135}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{90EEAA43-08B8-4B51-8ECC-1596CFD34135} hdr-loe Col2-{90EEAA43-08B8-4B51-8ECC-1596CFD34135} hdr-rec">2. First aid providers should minimize the risk of injury to the individual who is having a seizure by helping the person to the ground, placing the person on their side in the recovery position, and clearing the area around them.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{69A09117-0E1E-48E2-B515-5B99BAD84975}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{69A09117-0E1E-48E2-B515-5B99BAD84975}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{69A09117-0E1E-48E2-B515-5B99BAD84975} hdr-loe Col2-{69A09117-0E1E-48E2-B515-5B99BAD84975} hdr-rec">3. First aid providers should stay with the person having a seizure.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{FEE95B7D-C11D-467A-B007-87EE3FD31C87}" scope="row" class="ecc-bg--cor-3nobenefit">3: No Benefit</th>
+        <th id="Col2-{FEE95B7D-C11D-467A-B007-87EE3FD31C87}" scope="row" class="ecc-bg--loe-br">B-R</th>
+        <td headers="hdr-cor Col1-{FEE95B7D-C11D-467A-B007-87EE3FD31C87} hdr-loe Col2-{FEE95B7D-C11D-467A-B007-87EE3FD31C87} hdr-rec">4. For children who have experienced a febrile seizure, administration of antipyretics such as acetaminophen, ibuprofen, or paracetamol is not effective for stopping a seizure or preventing a subsequent febrile seizure.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{86444216-8BC6-4042-AFEC-4B3848D8F07B}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{86444216-8BC6-4042-AFEC-4B3848D8F07B}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{86444216-8BC6-4042-AFEC-4B3848D8F07B} hdr-loe Col2-{86444216-8BC6-4042-AFEC-4B3848D8F07B} hdr-rec">5. The person having the seizure should not be restrained.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{058A2AF8-758E-49CB-90AA-FB4A98F3D305}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{058A2AF8-758E-49CB-90AA-FB4A98F3D305}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{058A2AF8-758E-49CB-90AA-FB4A98F3D305} hdr-loe Col2-{058A2AF8-758E-49CB-90AA-FB4A98F3D305} hdr-rec">6. Nothing should be put in the mouth and no food, liquids, or oral medicines should be given to a person who is experiencing a seizure or who has decreased responsiveness after a seizure.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- COLOR CODED -->
+
+<div  ID=67fah  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Hypoglycemia</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{EA8587C4-C049-4E65-BA4A-2640AF0D0F37}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{EA8587C4-C049-4E65-BA4A-2640AF0D0F37}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{EA8587C4-C049-4E65-BA4A-2640AF0D0F37} hdr-loe Col2-{EA8587C4-C049-4E65-BA4A-2640AF0D0F37} hdr-rec">1. For a person with suspected hypoglycemia who is awake and able to swallow, the first aid provider should encourage the person to swallow oral glucose.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{5CE92237-B2E4-41AD-948B-1A0989A9830F}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{5CE92237-B2E4-41AD-948B-1A0989A9830F}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{5CE92237-B2E4-41AD-948B-1A0989A9830F} hdr-loe Col2-{5CE92237-B2E4-41AD-948B-1A0989A9830F} hdr-rec">2. EMS should be activated for a person with hypoglycemia who is unable to swallow, has a seizure, or does not improve within 10 minutes of oral glucose administration.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{C0CCB65C-7142-425B-BC13-C4E8DDBF5FA9}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{C0CCB65C-7142-425B-BC13-C4E8DDBF5FA9}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{C0CCB65C-7142-425B-BC13-C4E8DDBF5FA9} hdr-loe Col2-{C0CCB65C-7142-425B-BC13-C4E8DDBF5FA9} hdr-rec">3. If they are available, it is reasonable to use oral glucose tablets in preference to gel or dietary sources of glucose to treat hypoglycemia.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{BF19BA1D-DC16-492C-BF4A-6155F56EBAEE}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{BF19BA1D-DC16-492C-BF4A-6155F56EBAEE}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{BF19BA1D-DC16-492C-BF4A-6155F56EBAEE} hdr-loe Col2-{BF19BA1D-DC16-492C-BF4A-6155F56EBAEE} hdr-rec">4. It is reasonable to use simple dietary sugars as an alternative if glucose tablets or gel is not available to treat hypoglycemia.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{FFDE0AFC-BCCD-4310-9C0B-325521A66851}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{FFDE0AFC-BCCD-4310-9C0B-325521A66851}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{FFDE0AFC-BCCD-4310-9C0B-325521A66851} hdr-loe Col2-{FFDE0AFC-BCCD-4310-9C0B-325521A66851} hdr-rec">5. For children with suspected hypoglycemia who are awake but unwilling or unable to swallow glucose, it may be reasonable to apply a slurry of granulated sugar and water under the tongue.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{24E3D40E-043D-4770-B7FF-24043CA107B8}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{24E3D40E-043D-4770-B7FF-24043CA107B8}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{24E3D40E-043D-4770-B7FF-24043CA107B8} hdr-loe Col2-{24E3D40E-043D-4770-B7FF-24043CA107B8} hdr-rec">6. Oral glucose should not be administered to people who are not awake or not able to swallow.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- COLOR CODED -->
+
+
+<div  ID=68presyn  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Presyncope</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{498B06F3-769C-4EA0-9C07-CE4A5C2B2ABC}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{498B06F3-769C-4EA0-9C07-CE4A5C2B2ABC}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{498B06F3-769C-4EA0-9C07-CE4A5C2B2ABC} hdr-loe Col2-{498B06F3-769C-4EA0-9C07-CE4A5C2B2ABC} hdr-rec">1. If a person experiences signs or symptoms of presyncope (including pallor, sweating, lightheadedness, visual changes, and weakness) of vasovagal or orthostatic origin, that person should maintain or assume a safe position such as assisted sitting or lying down.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{67D3BBCA-5054-4DDA-A424-58538E2E8A35}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{67D3BBCA-5054-4DDA-A424-58538E2E8A35}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{67D3BBCA-5054-4DDA-A424-58538E2E8A35} hdr-loe Col2-{67D3BBCA-5054-4DDA-A424-58538E2E8A35} hdr-rec">2. Once the person with presyncope is in a safe position, it can be beneficial for that person to use physical PCMs to avoid syncope.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{8A5990D4-A8DE-4B23-A078-50F4BAF767F3}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{8A5990D4-A8DE-4B23-A078-50F4BAF767F3}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{8A5990D4-A8DE-4B23-A078-50F4BAF767F3} hdr-loe Col2-{8A5990D4-A8DE-4B23-A078-50F4BAF767F3} hdr-rec">3. Lower-body PCMs may be preferable to upper-body and abdominal PCMs in first aid for presyncope.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{CE47464E-E5D8-4FB3-9964-4DED1B0CA835}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{CE47464E-E5D8-4FB3-9964-4DED1B0CA835}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{CE47464E-E5D8-4FB3-9964-4DED1B0CA835} hdr-loe Col2-{CE47464E-E5D8-4FB3-9964-4DED1B0CA835} hdr-rec">4. If no improvement occurs within 1 to 2 minutes, if syncope occurs, or if symptoms worsen or reoccur, the first aid provider should activate emergency services.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{05A76FD9-FDDA-4087-B8D5-124B0E2C4DE4}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{05A76FD9-FDDA-4087-B8D5-124B0E2C4DE4}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{05A76FD9-FDDA-4087-B8D5-124B0E2C4DE4} hdr-loe Col2-{05A76FD9-FDDA-4087-B8D5-124B0E2C4DE4} hdr-rec">5. The use of PCMs is not recommended when symptoms of a heart attack or stroke accompany presyncope.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- COLOR CODED -->
+
+<div  ID=71bee  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Bee and Wasp Stings</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{24EBD527-3218-42E1-BF05-09BAB6E44D17}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{24EBD527-3218-42E1-BF05-09BAB6E44D17}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{24EBD527-3218-42E1-BF05-09BAB6E44D17} hdr-loe Col2-{24EBD527-3218-42E1-BF05-09BAB6E44D17} hdr-rec">1. If a person experiences anaphylaxis due to a bee, wasp, or hornet sting and an epinephrine autoinjector is available, the person should self-administer the autoinjector.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{B653E816-58AF-4813-8E23-F2BD56B5E1F3}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{B653E816-58AF-4813-8E23-F2BD56B5E1F3}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{B653E816-58AF-4813-8E23-F2BD56B5E1F3} hdr-loe Col2-{B653E816-58AF-4813-8E23-F2BD56B5E1F3} hdr-rec">2. A first aid provider should assist a person experiencing anaphylaxis to use the autoinjector if assistance is required.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{EA1504D2-EC65-4BD4-A30D-BBB2C1F79BA7}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{EA1504D2-EC65-4BD4-A30D-BBB2C1F79BA7}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{EA1504D2-EC65-4BD4-A30D-BBB2C1F79BA7} hdr-loe Col2-{EA1504D2-EC65-4BD4-A30D-BBB2C1F79BA7} hdr-rec">3. If a person experiences anaphylaxis due to a bee, wasp, or hornet sting, the emergency response system should be activated.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{D7314424-BE46-4726-B04F-FF3BE8F5B777}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{D7314424-BE46-4726-B04F-FF3BE8F5B777}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{D7314424-BE46-4726-B04F-FF3BE8F5B777} hdr-loe Col2-{D7314424-BE46-4726-B04F-FF3BE8F5B777} hdr-rec">4. Stings to the eye should be evaluated by a trained medical professional.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{922D1947-16D1-41BA-88AA-EC8CD46F8B54}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{922D1947-16D1-41BA-88AA-EC8CD46F8B54}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{922D1947-16D1-41BA-88AA-EC8CD46F8B54} hdr-loe Col2-{922D1947-16D1-41BA-88AA-EC8CD46F8B54} hdr-rec">5. Removal of a stinger remaining in the skin as soon as possible by plucking or scraping can be beneficial.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{AF4F1A24-4ADC-41B3-B457-24951D3A7CDD}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{AF4F1A24-4ADC-41B3-B457-24951D3A7CDD}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{AF4F1A24-4ADC-41B3-B457-24951D3A7CDD} hdr-loe Col2-{AF4F1A24-4ADC-41B3-B457-24951D3A7CDD} hdr-rec">6. Over-the-counter oral antihistamines can be used to alleviate local itching.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{11B44E2F-9541-4EB8-875A-E2A3AF8B4F63}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{11B44E2F-9541-4EB8-875A-E2A3AF8B4F63}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{11B44E2F-9541-4EB8-875A-E2A3AF8B4F63} hdr-loe Col2-{11B44E2F-9541-4EB8-875A-E2A3AF8B4F63} hdr-rec">7. Topical corticosteroids can be used to alleviate local itching.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{13919935-A250-4AF2-A4C7-EC4648DEA27A}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{13919935-A250-4AF2-A4C7-EC4648DEA27A}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{13919935-A250-4AF2-A4C7-EC4648DEA27A} hdr-loe Col2-{13919935-A250-4AF2-A4C7-EC4648DEA27A} hdr-rec">8. It is reasonable to wash the area of a bee, wasp, or hornet sting with soap and water.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{5EA2BC10-8A5D-4C23-9E7C-DCFDE3014286}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{5EA2BC10-8A5D-4C23-9E7C-DCFDE3014286}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{5EA2BC10-8A5D-4C23-9E7C-DCFDE3014286} hdr-loe Col2-{5EA2BC10-8A5D-4C23-9E7C-DCFDE3014286} hdr-rec">9. Administration of over-the-counter acetaminophen and nonsteroidal anti-inflammatory agents may be considered to alleviate local pain.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{53CE0393-C185-4CF2-B903-F01A2336C79F}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{53CE0393-C185-4CF2-B903-F01A2336C79F}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{53CE0393-C185-4CF2-B903-F01A2336C79F} hdr-loe Col2-{53CE0393-C185-4CF2-B903-F01A2336C79F} hdr-rec">10. Administration of ice or cold packs may be considered for local pain relief.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- COLOR CODED -->
+
+
+<div  ID=72eetbfa  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Tick Bites</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{AE10F8A4-064F-478B-9823-ECF69E48AFFE}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{AE10F8A4-064F-478B-9823-ECF69E48AFFE}" scope="row" class="ecc-bg--loe-br">B-R</th>
+        <td headers="hdr-cor Col1-{AE10F8A4-064F-478B-9823-ECF69E48AFFE} hdr-loe Col2-{AE10F8A4-064F-478B-9823-ECF69E48AFFE} hdr-rec">1. Tick bites occurring in regions with high prevalence of Lyme disease should receive prompt consultation with a health care professional within 72 hours after removal of an engorged tick.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{88112B1F-3B10-4C11-B223-6BF287A730C9}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{88112B1F-3B10-4C11-B223-6BF287A730C9}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{88112B1F-3B10-4C11-B223-6BF287A730C9} hdr-loe Col2-{88112B1F-3B10-4C11-B223-6BF287A730C9} hdr-rec">2. We recommend removal of a tick as soon as possible.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{CABD60B3-BC66-4004-9A63-98B10ACDE563}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{CABD60B3-BC66-4004-9A63-98B10ACDE563}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{CABD60B3-BC66-4004-9A63-98B10ACDE563} hdr-loe Col2-{CABD60B3-BC66-4004-9A63-98B10ACDE563} hdr-rec">3. To remove a tick, we recommend grasping the head of the tick as close to the skin as possible with tweezers or a commercial tick removal device and pulling upward with steady, even pressure.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- COLOR CODED -->
+
+
+<div  ID=73eerpipops  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid For Rash From Poison Ivy, Poison Oak, and Poison Sumac</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{F32A7D28-A05A-42A8-A0B3-4C179B338EBE}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{F32A7D28-A05A-42A8-A0B3-4C179B338EBE}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{F32A7D28-A05A-42A8-A0B3-4C179B338EBE} hdr-loe Col2-{F32A7D28-A05A-42A8-A0B3-4C179B338EBE} hdr-rec">1. As soon as exposure to poison ivy, oak, or sumac is recognized, the exposed area should be washed with soap and water or a commercially available decontamination product.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{1BB667FF-E3E6-4740-8A9D-D6333CC3BEB8}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{1BB667FF-E3E6-4740-8A9D-D6333CC3BEB8}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{1BB667FF-E3E6-4740-8A9D-D6333CC3BEB8} hdr-loe Col2-{1BB667FF-E3E6-4740-8A9D-D6333CC3BEB8} hdr-rec">2. The usefulness of over-the-counter topical steroids to alleviate local symptoms from poison ivy, oak, or sumac is uncertain.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{0CAEDFF8-8BD6-490F-94A8-376CC544554E}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{0CAEDFF8-8BD6-490F-94A8-376CC544554E}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{0CAEDFF8-8BD6-490F-94A8-376CC544554E} hdr-loe Col2-{0CAEDFF8-8BD6-490F-94A8-376CC544554E} hdr-rec">3. Cool compresses may be considered for relief of local symptoms from exposure to poison ivy, oak, or sumac.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{AEB92E37-4410-475E-8F6C-90DD59FD00F5}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{AEB92E37-4410-475E-8F6C-90DD59FD00F5}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{AEB92E37-4410-475E-8F6C-90DD59FD00F5} hdr-loe Col2-{AEB92E37-4410-475E-8F6C-90DD59FD00F5} hdr-rec">4. Oatmeal baths may be considered for relief of local symptoms from exposure to poison ivy, oak, or sumac.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{5CB4FAD1-BE30-4B1D-A84E-B0C3B5EF50E8}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{5CB4FAD1-BE30-4B1D-A84E-B0C3B5EF50E8}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{5CB4FAD1-BE30-4B1D-A84E-B0C3B5EF50E8} hdr-loe Col2-{5CB4FAD1-BE30-4B1D-A84E-B0C3B5EF50E8} hdr-rec">5. The usefulness of over-the-counter antihistamines to alleviate local symptoms from poison ivy, oak, or sumac is uncertain.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- COLOR CODED -->
+
+
+
+<div  ID=74eesbfa  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Snake Bite in North America</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{B2005449-5CA7-4E48-86EB-EA9F5E054C10}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{B2005449-5CA7-4E48-86EB-EA9F5E054C10}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{B2005449-5CA7-4E48-86EB-EA9F5E054C10} hdr-loe Col2-{B2005449-5CA7-4E48-86EB-EA9F5E054C10} hdr-rec">1. Emergency services should be activated for any person bitten by a venomous or possibly venomous snake.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{7ACC103D-3CBB-4EB1-9A1F-564CBD4CAFAE}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{7ACC103D-3CBB-4EB1-9A1F-564CBD4CAFAE}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{7ACC103D-3CBB-4EB1-9A1F-564CBD4CAFAE} hdr-loe Col2-{7ACC103D-3CBB-4EB1-9A1F-564CBD4CAFAE} hdr-rec">2. It is reasonable to rest and immobilize the bitten extremity and minimize exertion by the person who was bitten if it does not delay access to emergency medical care.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{9FC5840F-C036-4441-9D73-86853C174826}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{9FC5840F-C036-4441-9D73-86853C174826}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{9FC5840F-C036-4441-9D73-86853C174826} hdr-loe Col2-{9FC5840F-C036-4441-9D73-86853C174826} hdr-rec">3. It is reasonable to remove rings and other constricting objects from the bitten extremity.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{35AF87E7-6C5B-4AC0-B272-39685807A521}" scope="row" class="ecc-bg--cor-3nobenefit">3: No Benefit</th>
+        <th id="Col2-{35AF87E7-6C5B-4AC0-B272-39685807A521}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{35AF87E7-6C5B-4AC0-B272-39685807A521} hdr-loe Col2-{35AF87E7-6C5B-4AC0-B272-39685807A521} hdr-rec">4. Application of ice to a snakebite wound is of unproven benefit and may be harmful in some situations.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{64ECEBE0-48BD-4433-B781-9B0BE5486449}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{64ECEBE0-48BD-4433-B781-9B0BE5486449}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{64ECEBE0-48BD-4433-B781-9B0BE5486449} hdr-loe Col2-{64ECEBE0-48BD-4433-B781-9B0BE5486449} hdr-rec">5. The use of suction to treat snake bites is potentially harmful.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{F8FC0544-5D94-4CEB-AC7A-BCFCCA87FB4B}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{F8FC0544-5D94-4CEB-AC7A-BCFCCA87FB4B}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{F8FC0544-5D94-4CEB-AC7A-BCFCCA87FB4B} hdr-loe Col2-{F8FC0544-5D94-4CEB-AC7A-BCFCCA87FB4B} hdr-rec">6. The application of electric shock to treat snake bites is potentially harmful.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{7ABC9E5C-1F83-48D8-A0A1-84CB6E8D112D}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{7ABC9E5C-1F83-48D8-A0A1-84CB6E8D112D}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{7ABC9E5C-1F83-48D8-A0A1-84CB6E8D112D} hdr-loe Col2-{7ABC9E5C-1F83-48D8-A0A1-84CB6E8D112D} hdr-rec">7. The use of tourniquets to treat snake bites is potentially harmful.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{7FFA1578-BDD1-4497-8392-938F13581F49}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{7FFA1578-BDD1-4497-8392-938F13581F49}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{7FFA1578-BDD1-4497-8392-938F13581F49} hdr-loe Col2-{7FFA1578-BDD1-4497-8392-938F13581F49} hdr-rec">8. The use of pressure immobilization bandaging to treat snake bites is potentially harmful.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div  ID=75eejsfa  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Jellyfish Stings</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{E063B28B-7C2A-4EE4-935F-B6FABAB9BBD0}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{E063B28B-7C2A-4EE4-935F-B6FABAB9BBD0}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{E063B28B-7C2A-4EE4-935F-B6FABAB9BBD0} hdr-loe Col2-{E063B28B-7C2A-4EE4-935F-B6FABAB9BBD0} hdr-rec">1. A first aid provider should observe a person with a jellyfish sting for systemic reaction and call emergency services for difficulty breathing, signs of shock, or severe pain.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{A43833DE-7216-4258-8204-0A19DABB1C12}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{A43833DE-7216-4258-8204-0A19DABB1C12}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{A43833DE-7216-4258-8204-0A19DABB1C12} hdr-loe Col2-{A43833DE-7216-4258-8204-0A19DABB1C12} hdr-rec">2. It is reasonable to remove any remaining tentacles by lifting or pulling while avoiding manual contact. Rinsing the affected area with seawater to remove the tentacle is a reasonable alternative if mechanical removal is not available.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{129D0080-2EF4-4A29-852E-1363B5861581}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{129D0080-2EF4-4A29-852E-1363B5861581}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{129D0080-2EF4-4A29-852E-1363B5861581} hdr-loe Col2-{129D0080-2EF4-4A29-852E-1363B5861581} hdr-rec">3. After removal of tentacles, it is reasonable to use nonscalding hot water immersion/irrigation or to apply a heat source to relieve pain.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{ABFC87FB-CC03-4771-9FDB-7312340048BF}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{ABFC87FB-CC03-4771-9FDB-7312340048BF}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{ABFC87FB-CC03-4771-9FDB-7312340048BF} hdr-loe Col2-{ABFC87FB-CC03-4771-9FDB-7312340048BF} hdr-rec">4. Topical lidocaine cream or gel may be reasonable for pain control if hot water is not available.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div  ID=76eesses  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Spider and Scorpion Envenomation</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{BAA80F72-C06B-4CEB-8192-8898A8CC62EB}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{BAA80F72-C06B-4CEB-8192-8898A8CC62EB}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{BAA80F72-C06B-4CEB-8192-8898A8CC62EB} hdr-loe Col2-{BAA80F72-C06B-4CEB-8192-8898A8CC62EB} hdr-rec">1. Emergency services should be called if a person bitten by a spider or stung by a scorpion develops symptoms throughout the body such as difficulty breathing, muscle rigidity, dizziness, or confusion.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{F85C4CAB-8762-4AD4-B641-82744B7EABDE}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{F85C4CAB-8762-4AD4-B641-82744B7EABDE}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{F85C4CAB-8762-4AD4-B641-82744B7EABDE} hdr-loe Col2-{F85C4CAB-8762-4AD4-B641-82744B7EABDE} hdr-rec">2. A person bitten by a spider or stung by a scorpion should seek medical care if pain extends beyond the site of the bite/sting, becomes severe, and is not controlled by over-the-counter pain medications; if an open wound develops; or if the person experiences symptoms throughout the body.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{5966073E-AC32-4715-9203-F9C43F9BAC07}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{5966073E-AC32-4715-9203-F9C43F9BAC07}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{5966073E-AC32-4715-9203-F9C43F9BAC07} hdr-loe Col2-{5966073E-AC32-4715-9203-F9C43F9BAC07} hdr-rec">3. Over-the-counter acetaminophen and nonsteroidal anti-inflammatory agents can be used to alleviate local pain from scorpion stings.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{D18BE13A-A8B2-4054-9FCF-BE6181D9B66E}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{D18BE13A-A8B2-4054-9FCF-BE6181D9B66E}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{D18BE13A-A8B2-4054-9FCF-BE6181D9B66E} hdr-loe Col2-{D18BE13A-A8B2-4054-9FCF-BE6181D9B66E} hdr-rec">4. If the skin is intact, topical lidocaine can be useful to relieve local pain from scorpion stings.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{FDF2BEEB-104C-416F-B61B-FAC72E313C15}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{FDF2BEEB-104C-416F-B61B-FAC72E313C15}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{FDF2BEEB-104C-416F-B61B-FAC72E313C15} hdr-loe Col2-{FDF2BEEB-104C-416F-B61B-FAC72E313C15} hdr-rec">5. Ice can be useful for local pain relief from scorpion stings.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div  ID=77eehypo  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Hypothermia</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{C4935310-9DFF-490C-B3BA-A35FFC428936}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{C4935310-9DFF-490C-B3BA-A35FFC428936}" scope="row" class="ecc-bg--loe-br">B-R</th>
+        <td headers="hdr-cor Col1-{C4935310-9DFF-490C-B3BA-A35FFC428936} hdr-loe Col2-{C4935310-9DFF-490C-B3BA-A35FFC428936} hdr-rec">1. A person with signs and symptoms of hypothermia should be protected from further heat loss by moving from the cold environment to a warm one, having saturated clothing removed, being allowed to passively rewarm with blankets, and being actively rewarmed if resources are available.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{6ED75B9C-C52F-47B7-9241-E8AC886FB7BE}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{6ED75B9C-C52F-47B7-9241-E8AC886FB7BE}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{6ED75B9C-C52F-47B7-9241-E8AC886FB7BE} hdr-loe Col2-{6ED75B9C-C52F-47B7-9241-E8AC886FB7BE} hdr-rec">2. If a person with hypothermia cannot be immediately moved from a cold environment to a warm one, they should be protected from further heat loss by insulation from the ground, covering of head and neck, and shielding from heat loss by wind using a plastic or foil layer in addition to a dry insulating layer.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{EBE61D1D-7E9C-4F9A-A97B-4E8810376138}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{EBE61D1D-7E9C-4F9A-A97B-4E8810376138}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{EBE61D1D-7E9C-4F9A-A97B-4E8810376138} hdr-loe Col2-{EBE61D1D-7E9C-4F9A-A97B-4E8810376138} hdr-rec">3. When using rewarming devices of any kind, the first aid provider should follow the manufacturer&rsquo;s instructions for the device used, place insulation between the heat source and skin, and frequently monitor for burns and pressure injury.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{2E9A90E7-878C-4ABC-92C0-06940B770009}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{2E9A90E7-878C-4ABC-92C0-06940B770009}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{2E9A90E7-878C-4ABC-92C0-06940B770009} hdr-loe Col2-{2E9A90E7-878C-4ABC-92C0-06940B770009} hdr-rec">4. If a person with hypothermia has a decreased level of responsiveness such as unresponsive- ness, inability to remain awake, mumbling speech, confusion, or inability to participate in removal of clothing or has pallor, cyanosis, or frozen skin, the emergency response system should be activated while the person is rewarmed by any available method.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{53010A53-B1D7-444B-ABF2-46AEFC31D9B3}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{53010A53-B1D7-444B-ABF2-46AEFC31D9B3}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{53010A53-B1D7-444B-ABF2-46AEFC31D9B3} hdr-loe Col2-{53010A53-B1D7-444B-ABF2-46AEFC31D9B3} hdr-rec">5. For patients experiencing cold stress or mild hypothermia who are alert and can safely consume oral food or fluids, it is recommended to provide high-calorie foods or drinks.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{39758BD9-8D76-4609-86F9-797E534E5188}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{39758BD9-8D76-4609-86F9-797E534E5188}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{39758BD9-8D76-4609-86F9-797E534E5188} hdr-loe Col2-{39758BD9-8D76-4609-86F9-797E534E5188} hdr-rec">6. If a person with hypothermia with a decreased level of responsiveness is wearing damp (not saturated) clothing such as polyester fleece and cannot be immediately moved into a warm environment, active rewarming through the damp clothing is reasonable to initiate with the hypothermia wrap technique, using chemical heat blankets, plastic or foil layers, and insulative blankets.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{EDA13491-393A-4844-A95A-B74BFD5AF16D}" scope="row" class="ecc-bg--cor-3nobenefit">3: No Benefit</th>
+        <th id="Col2-{EDA13491-393A-4844-A95A-B74BFD5AF16D}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{EDA13491-393A-4844-A95A-B74BFD5AF16D} hdr-loe Col2-{EDA13491-393A-4844-A95A-B74BFD5AF16D} hdr-rec">7. It is not beneficial to use body-to-body rewarming for active rewarming over other active rewarming techniques such as chemical heat packs or forced air systems.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{757DC668-32B4-4785-941C-2F2BCF97F5EA}" scope="row" class="ecc-bg--cor-3nobenefit">3: No Benefit</th>
+        <th id="Col2-{757DC668-32B4-4785-941C-2F2BCF97F5EA}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{757DC668-32B4-4785-941C-2F2BCF97F5EA} hdr-loe Col2-{757DC668-32B4-4785-941C-2F2BCF97F5EA} hdr-rec">8. It is not effective to treat a person with hypothermia by using small glove or boot insert chemical heat packs as the sole or primary means of rewarming.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{C6F9D892-15F2-4E26-B76B-EB1C6EC35C06}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{C6F9D892-15F2-4E26-B76B-EB1C6EC35C06}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{C6F9D892-15F2-4E26-B76B-EB1C6EC35C06} hdr-loe Col2-{C6F9D892-15F2-4E26-B76B-EB1C6EC35C06} hdr-rec">9. Heat sources, rubbing, and massage should not be applied to the extremities of a person with hypothermia.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{9F8DE707-3449-4E53-A11B-846565BC8221}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{9F8DE707-3449-4E53-A11B-846565BC8221}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{9F8DE707-3449-4E53-A11B-846565BC8221} hdr-loe Col2-{9F8DE707-3449-4E53-A11B-846565BC8221} hdr-rec">10. It is potentially harmful to use a warm shower or warm water immersion for rewarming a person with hypothermia with a decreased level of responsiveness (moderate to severe hypothermia) because of the risk of core temperature after drop, hypotension, falls, and drowning.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div  ID=78eefb  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Frostbite</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{485A2AA6-B38E-4C83-A421-42D0E51AF09F}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{485A2AA6-B38E-4C83-A421-42D0E51AF09F}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{485A2AA6-B38E-4C83-A421-42D0E51AF09F} hdr-loe Col2-{485A2AA6-B38E-4C83-A421-42D0E51AF09F} hdr-rec">1. The preferred method for warming frostbitten tissue is clean lukewarm water immersion at 37&deg; C to 40&deg;C (99&deg;F&ndash;104&deg; F).</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{C182ED78-F15E-4A3D-8840-9440771B57F1}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{C182ED78-F15E-4A3D-8840-9440771B57F1}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{C182ED78-F15E-4A3D-8840-9440771B57F1} hdr-loe Col2-{C182ED78-F15E-4A3D-8840-9440771B57F1} hdr-rec">2. Frostbitten tissue should be rewarmed at the earliest opportunity, as long as there is no risk of refreezing.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{0AD0EFD0-A0F5-4A03-A9EF-3DC2958B52E6}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{0AD0EFD0-A0F5-4A03-A9EF-3DC2958B52E6}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{0AD0EFD0-A0F5-4A03-A9EF-3DC2958B52E6} hdr-loe Col2-{0AD0EFD0-A0F5-4A03-A9EF-3DC2958B52E6} hdr-rec">3. If clean lukewarm water immersion is not feasible, frostbitten tissue should be allowed to rewarm spontaneously in warm room air or next to the person&rsquo;s own warm skin.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{1817780B-6341-44B0-AD5B-40CE4012CE27}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{1817780B-6341-44B0-AD5B-40CE4012CE27}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{1817780B-6341-44B0-AD5B-40CE4012CE27} hdr-loe Col2-{1817780B-6341-44B0-AD5B-40CE4012CE27} hdr-rec">4. A person with frostbite should seek prompt medical attention.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{6F28D3D1-E71A-465D-9B8B-DE49AE5DA6C9}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{6F28D3D1-E71A-465D-9B8B-DE49AE5DA6C9}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{6F28D3D1-E71A-465D-9B8B-DE49AE5DA6C9} hdr-loe Col2-{6F28D3D1-E71A-465D-9B8B-DE49AE5DA6C9} hdr-rec">5. Jewelry or other constricting materials should be removed from a frostbitten extremity as soon as possible.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{95F4F08D-5D79-4AC1-A180-A1CB6FE3500E}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{95F4F08D-5D79-4AC1-A180-A1CB6FE3500E}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{95F4F08D-5D79-4AC1-A180-A1CB6FE3500E} hdr-loe Col2-{95F4F08D-5D79-4AC1-A180-A1CB6FE3500E} hdr-rec">6. A person with moderate to severe hypothermia should receive core rewarming before frostbite is treated.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{6F1FE216-6169-44B0-9F1B-3439F282E319}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{6F1FE216-6169-44B0-9F1B-3439F282E319}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{6F1FE216-6169-44B0-9F1B-3439F282E319} hdr-loe Col2-{6F1FE216-6169-44B0-9F1B-3439F282E319} hdr-rec">7. If possible, a person should protect frostbitten tissue from further injury and avoid walking on frozen feet and toes.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{6AC0028C-44FD-44A2-B2BE-CDDF2E27110C}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{6AC0028C-44FD-44A2-B2BE-CDDF2E27110C}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{6AC0028C-44FD-44A2-B2BE-CDDF2E27110C} hdr-loe Col2-{6AC0028C-44FD-44A2-B2BE-CDDF2E27110C} hdr-rec">8. For frozen and thawed tissue and between the toes and fingers, bulky, clean, dry gauze or sterile cotton dressings should be applied. Circumferential dressings should be wrapped loosely to allow for swelling without placing pressure on the underlying tissue.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{BA05A9FC-96F4-447A-88DA-A5B8FD6A8C0A}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{BA05A9FC-96F4-447A-88DA-A5B8FD6A8C0A}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{BA05A9FC-96F4-447A-88DA-A5B8FD6A8C0A} hdr-loe Col2-{BA05A9FC-96F4-447A-88DA-A5B8FD6A8C0A} hdr-rec">9. It may be reasonable to give ibuprofen to a person with frostbite to prevent further tissue damage and to treat pain.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{126BE8A5-0784-40A3-AD2F-0AFAB5899673}" scope="row" class="ecc-bg--cor-3nobenefit">3: No Benefit</th>
+        <th id="Col2-{126BE8A5-0784-40A3-AD2F-0AFAB5899673}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{126BE8A5-0784-40A3-AD2F-0AFAB5899673} hdr-loe Col2-{126BE8A5-0784-40A3-AD2F-0AFAB5899673} hdr-rec">10. It is not recommended for first aid providers to debride blisters associated with frostbite.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div  ID=79eehseh  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Exertional Hyperthermia and Heatstroke</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{D7E26C42-5784-4641-BC09-6FAFF8819E21}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{D7E26C42-5784-4641-BC09-6FAFF8819E21}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{D7E26C42-5784-4641-BC09-6FAFF8819E21} hdr-loe Col2-{D7E26C42-5784-4641-BC09-6FAFF8819E21} hdr-rec">1. For people with exertional hyperthermia or heatstroke, first aid providers should move the individual from the hot environment, remove excess clothing, limit exertion, and provide cool liquids if the person is able to swallow.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{93363807-7AD4-4E3E-B13C-1AD43C72021C}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{93363807-7AD4-4E3E-B13C-1AD43C72021C}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{93363807-7AD4-4E3E-B13C-1AD43C72021C} hdr-loe Col2-{93363807-7AD4-4E3E-B13C-1AD43C72021C} hdr-rec">2. For people with heatstroke (heat illness with altered mental status), first aid providers should activate emergency services.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{886366BE-4FFF-4833-924C-CA86ACE449B3}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{886366BE-4FFF-4833-924C-CA86ACE449B3}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{886366BE-4FFF-4833-924C-CA86ACE449B3} hdr-loe Col2-{886366BE-4FFF-4833-924C-CA86ACE449B3} hdr-rec">3. For adults with heatstroke, it is reasonable to initiate immediate active cooling by using whole- body (neck-down) cool- to cold-water immersion for 15 minutes or until neurological symptoms resolve (whichever occurs first).</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{56F8783D-6C7C-4166-BCB5-20131F0571D5}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{56F8783D-6C7C-4166-BCB5-20131F0571D5}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{56F8783D-6C7C-4166-BCB5-20131F0571D5} hdr-loe Col2-{56F8783D-6C7C-4166-BCB5-20131F0571D5} hdr-rec">4. For adults with heatstroke, it is reasonable to initiate other forms of active cooling, including commercial ice packs, cold showers, ice sheets and towels, cooling vests and jackets, and evaporative, fanning, or a combination of techniques when water immersion is not available.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{9222F53D-ED86-4C70-81D1-C0B5CB99A63D}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{9222F53D-ED86-4C70-81D1-C0B5CB99A63D}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{9222F53D-ED86-4C70-81D1-C0B5CB99A63D} hdr-loe Col2-{9222F53D-ED86-4C70-81D1-C0B5CB99A63D} hdr-rec">5. For children with heatstroke, it is reasonable to initiate immediate active cooling by using whole-body (neck-down) cool- to cold-water immersion for 15 minutes or until neurological symptoms resolve (whichever occurs first).</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{AA3D049C-9A84-4A18-9B9A-4EAE3AA68F71}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{AA3D049C-9A84-4A18-9B9A-4EAE3AA68F71}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{AA3D049C-9A84-4A18-9B9A-4EAE3AA68F71} hdr-loe Col2-{AA3D049C-9A84-4A18-9B9A-4EAE3AA68F71} hdr-rec">6. For children with heatstroke, it is reasonable to initiate other forms of active cooling, including commercial ice packs, cold showers, ice sheets and towels, cooling vests and jackets, and evaporative, fanning, or a combination of techniques when water immersion is not available.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{8B312619-C70B-4D0B-9331-1B05DBBA744F}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{8B312619-C70B-4D0B-9331-1B05DBBA744F}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{8B312619-C70B-4D0B-9331-1B05DBBA744F} hdr-loe Col2-{8B312619-C70B-4D0B-9331-1B05DBBA744F} hdr-rec">7. It may be reasonable for first aid providers, who are trained and willing, to measure core temperature during active cooling for heatstroke. The target core temperature to cool until is 39&deg; C (102.2&deg; F).</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div  ID=710eeored  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>Oral Rehydration for Exertional Dehydration</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{FA0E2FD5-1232-436B-8BE0-895C02FD2BA7}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{FA0E2FD5-1232-436B-8BE0-895C02FD2BA7}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{FA0E2FD5-1232-436B-8BE0-895C02FD2BA7} hdr-loe Col2-{FA0E2FD5-1232-436B-8BE0-895C02FD2BA7} hdr-rec">1. In the absence of shock, confusion, or inability to swallow, first aid providers should assist or encourage individuals with exertional dehydration to orally rehydrate with any available rehydration drink or potable water.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{C0C12E82-D544-4F34-BB8F-DE5A7FAFD074}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{C0C12E82-D544-4F34-BB8F-DE5A7FAFD074}" scope="row" class="ecc-bg--loe-br">B-R</th>
+        <td headers="hdr-cor Col1-{C0C12E82-D544-4F34-BB8F-DE5A7FAFD074} hdr-loe Col2-{C0C12E82-D544-4F34-BB8F-DE5A7FAFD074} hdr-rec">2. It is reasonable to choose 4% to 9% carbohydrate-electrolyte drink over potable water, 0% to 3.9% carbohydrate-electrolyte drinks, coconut water, or low-fat cow&rsquo;s milk, if each is readily available.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div  ID=81toxoo  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Opioid Overdose</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{FF66CB19-A99B-41EA-999B-EDE714658359}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{FF66CB19-A99B-41EA-999B-EDE714658359}" scope="row" class="ecc-bg--loe-br">B-R</th>
+        <td headers="hdr-cor Col1-{FF66CB19-A99B-41EA-999B-EDE714658359} hdr-loe Col2-{FF66CB19-A99B-41EA-999B-EDE714658359} hdr-rec">1. It is beneficial for first aid providers to receive training in responding to opioid overdose, including the provision of naloxone.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{D94DB9B5-96EB-4699-8509-DAD2E73ADDE9}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{D94DB9B5-96EB-4699-8509-DAD2E73ADDE9}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{D94DB9B5-96EB-4699-8509-DAD2E73ADDE9} hdr-loe Col2-{D94DB9B5-96EB-4699-8509-DAD2E73ADDE9} hdr-rec">2. A first aid provider who encounters a person with suspected opioid overdose who is unresponsive and not breathing or not breathing normally should activate the emergency response system, provide high-quality CPR (compressions plus ventilation), and administer naloxone.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div  ID=82toxces  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Chemical Exposure to the Skin</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{634E05D0-BD7F-4EDF-8DA0-9B388989E561}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{634E05D0-BD7F-4EDF-8DA0-9B388989E561}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{634E05D0-BD7F-4EDF-8DA0-9B388989E561} hdr-loe Col2-{634E05D0-BD7F-4EDF-8DA0-9B388989E561} hdr-rec">1. Immediate skin decontamination is recommended after a chemical exposure.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{ADFEA092-4635-4FD3-AF11-407988D4BDF5}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{ADFEA092-4635-4FD3-AF11-407988D4BDF5}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{ADFEA092-4635-4FD3-AF11-407988D4BDF5} hdr-loe Col2-{ADFEA092-4635-4FD3-AF11-407988D4BDF5} hdr-rec">2. Unless otherwise recommended by local guidelines or chemical-specific information, skin exposed to caustic chemical should be irrigated with running water for at least 15 minutes.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{0DD41976-3802-4915-A884-14EEBC5B325D}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{0DD41976-3802-4915-A884-14EEBC5B325D}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{0DD41976-3802-4915-A884-14EEBC5B325D} hdr-loe Col2-{0DD41976-3802-4915-A884-14EEBC5B325D} hdr-rec">3. It can be beneficial to follow local guidelines, follow chemical-specific procedures, or consult a regional poison center when assisting a person with chemical exposures.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{D9C0D072-4750-4479-BE40-2511D4A501B5}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{D9C0D072-4750-4479-BE40-2511D4A501B5}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{D9C0D072-4750-4479-BE40-2511D4A501B5} hdr-loe Col2-{D9C0D072-4750-4479-BE40-2511D4A501B5} hdr-rec">4. Contaminated clothing, jewelry, and other surrounding material should be removed from the area of a chemical exposure.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{8AB6F061-0014-4CC0-B4F0-3501C45570C0}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{8AB6F061-0014-4CC0-B4F0-3501C45570C0}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{8AB6F061-0014-4CC0-B4F0-3501C45570C0} hdr-loe Col2-{8AB6F061-0014-4CC0-B4F0-3501C45570C0} hdr-rec">5. EMS should be called when a person with chemical exposure has respiratory symptoms, systemic symptoms, or large chemical exposures.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{4E78FC14-54B9-4C12-B602-4A6847C8BEF3}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{4E78FC14-54B9-4C12-B602-4A6847C8BEF3}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{4E78FC14-54B9-4C12-B602-4A6847C8BEF3} hdr-loe Col2-{4E78FC14-54B9-4C12-B602-4A6847C8BEF3} hdr-rec">6. It is reasonable to brush off any dry chemical before irrigation with water.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div  ID=83toxcee  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Chemical Exposure to the Eye</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{42986E4E-45F3-4A6B-BF8D-B0AD000D2FC7}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{42986E4E-45F3-4A6B-BF8D-B0AD000D2FC7}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{42986E4E-45F3-4A6B-BF8D-B0AD000D2FC7} hdr-loe Col2-{42986E4E-45F3-4A6B-BF8D-B0AD000D2FC7} hdr-rec">1. Decontamination by irrigation should be performed immediately after chemical exposure to the eyes.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{4780F4DE-3047-484C-9F55-14A54A5211C1}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{4780F4DE-3047-484C-9F55-14A54A5211C1}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{4780F4DE-3047-484C-9F55-14A54A5211C1} hdr-loe Col2-{4780F4DE-3047-484C-9F55-14A54A5211C1} hdr-rec">2. Unless otherwise recommended by local guidelines, irrigation with a copious amount of tap water for 15 minutes should be performed.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{A8A05291-5377-4361-AC2A-AD71CB8374C9}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{A8A05291-5377-4361-AC2A-AD71CB8374C9}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{A8A05291-5377-4361-AC2A-AD71CB8374C9} hdr-loe Col2-{A8A05291-5377-4361-AC2A-AD71CB8374C9} hdr-rec">3. When providing first aid for chemical eye injury, first aid providers should avoid contaminating other individuals, areas, or the other eye with the caustic substance.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{CDA53D7A-D38E-439D-A19A-44E960DA3A2E}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{CDA53D7A-D38E-439D-A19A-44E960DA3A2E}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{CDA53D7A-D38E-439D-A19A-44E960DA3A2E} hdr-loe Col2-{CDA53D7A-D38E-439D-A19A-44E960DA3A2E} hdr-rec">4. Eye irrigation with normal saline, Ringer&rsquo;s lactate solution, or a commercial eye wash solution if immediately available is reasonable.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{B7DD7E50-462E-417F-8036-75CB4EC071A8}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{B7DD7E50-462E-417F-8036-75CB4EC071A8}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{B7DD7E50-462E-417F-8036-75CB4EC071A8} hdr-loe Col2-{B7DD7E50-462E-417F-8036-75CB4EC071A8} hdr-rec">5. It is reasonable for individuals with ocular exposure to industrial chemicals to adhere to local guidelines or recommendations from a poison center.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div  ID=91trfaseb  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Severe External Bleeding</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{80648334-DCE9-4D1F-8420-3855EC3484BA}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{80648334-DCE9-4D1F-8420-3855EC3484BA}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{80648334-DCE9-4D1F-8420-3855EC3484BA} hdr-loe Col2-{80648334-DCE9-4D1F-8420-3855EC3484BA} hdr-rec">1. Direct manual pressure should be applied to achieve initial control of external bleeding.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{F6C53A1D-C17E-473C-8A32-A1B13453139A}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{F6C53A1D-C17E-473C-8A32-A1B13453139A}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{F6C53A1D-C17E-473C-8A32-A1B13453139A} hdr-loe Col2-{F6C53A1D-C17E-473C-8A32-A1B13453139A} hdr-rec">2. A hemostatic dressing can be useful as adjunctive therapy to improve the effectiveness of direct manual pressure.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{7B7F1DBC-86DE-49B9-B639-D862B583496D}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{7B7F1DBC-86DE-49B9-B639-D862B583496D}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{7B7F1DBC-86DE-49B9-B639-D862B583496D} hdr-loe Col2-{7B7F1DBC-86DE-49B9-B639-D862B583496D} hdr-rec">3. Once bleeding has been controlled, it may be reasonable to apply a pressure dressing to maintain bleeding cessation.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{BBB382B9-5117-4315-8AA7-798F71194E13}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{BBB382B9-5117-4315-8AA7-798F71194E13}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{BBB382B9-5117-4315-8AA7-798F71194E13} hdr-loe Col2-{BBB382B9-5117-4315-8AA7-798F71194E13} hdr-rec">4. The utility of indirect manual pressure (ie, pressure points) for bleeding control is uncertain.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{194810E7-EE80-40BD-8BF1-E7DD8AFDAFD7}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{194810E7-EE80-40BD-8BF1-E7DD8AFDAFD7}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{194810E7-EE80-40BD-8BF1-E7DD8AFDAFD7} hdr-loe Col2-{194810E7-EE80-40BD-8BF1-E7DD8AFDAFD7} hdr-rec">5. Mechanical pressure such as pressure bandages or devices might be considered in some situations when direct manual pressure is not feasible.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div  ID=91trfalteb  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Life-Threatening Extremity Bleeding That Is Not Controlled by Direct Pressure</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{7675E66A-00D5-47DE-B640-099A2949EF29}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{7675E66A-00D5-47DE-B640-099A2949EF29}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{7675E66A-00D5-47DE-B640-099A2949EF29} hdr-loe Col2-{7675E66A-00D5-47DE-B640-099A2949EF29} hdr-rec">1. For life-threatening extremity bleeding, a tourniquet should be applied and tightened until the bleeding stops.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{20278905-47F2-430F-9729-93415E6B0F55}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{20278905-47F2-430F-9729-93415E6B0F55}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{20278905-47F2-430F-9729-93415E6B0F55} hdr-loe Col2-{20278905-47F2-430F-9729-93415E6B0F55} hdr-rec">2. A commercial tourniquet is probably superior to an improvised tourniquet.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{8DF06079-A4F0-446A-B8FB-19517248AD71}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{8DF06079-A4F0-446A-B8FB-19517248AD71}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{8DF06079-A4F0-446A-B8FB-19517248AD71} hdr-loe Col2-{8DF06079-A4F0-446A-B8FB-19517248AD71} hdr-rec">3. If an improvised tourniquet is used, it is reasonable for the tourniquet to be at least 2 in width.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div  ID=92trcocw  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>Recommendation for the Care of Open Chest Wounds&nbsp;</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{CD731CAD-6CFC-4020-B39E-8C4EB1ABA106}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{CD731CAD-6CFC-4020-B39E-8C4EB1ABA106}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{CD731CAD-6CFC-4020-B39E-8C4EB1ABA106} hdr-loe Col2-{CD731CAD-6CFC-4020-B39E-8C4EB1ABA106} hdr-rec">1. An open chest wound is a medical emergency requiring immediate activation of the emergency response system.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{86B4B418-2578-4660-945F-A54365C8804B}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{86B4B418-2578-4660-945F-A54365C8804B}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{86B4B418-2578-4660-945F-A54365C8804B} hdr-loe Col2-{86B4B418-2578-4660-945F-A54365C8804B} hdr-rec">2. If a dressing is placed, the first aid provider should monitor the person for worsening of breathing/symptoms and loosen or remove the dressing if breathing worsens.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{0773B5A8-7DF7-4061-AC8B-6E893C9B66CA}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{0773B5A8-7DF7-4061-AC8B-6E893C9B66CA}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{0773B5A8-7DF7-4061-AC8B-6E893C9B66CA} hdr-loe Col2-{0773B5A8-7DF7-4061-AC8B-6E893C9B66CA} hdr-rec">3. In the first aid situation, it is reasonable to leave an open chest wound exposed to ambient air; place a clean, nonocclusive, dry dressing (eg, gauze dressing, part of a tee shirt); or place a specialized dressing such as a vented chest seal.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div  ID=93trsw  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Superficial Wounds</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{D589AC25-53E8-412C-BEA8-B5D753028625}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{D589AC25-53E8-412C-BEA8-B5D753028625}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{D589AC25-53E8-412C-BEA8-B5D753028625} hdr-loe Col2-{D589AC25-53E8-412C-BEA8-B5D753028625} hdr-rec">1. Superficial wounds and abrasions should be thoroughly irrigated until there is no obvious debris or foreign matter in the wound.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{CEBB7DF9-391B-4DA0-8D22-BC81E284F43D}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{CEBB7DF9-391B-4DA0-8D22-BC81E284F43D}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{CEBB7DF9-391B-4DA0-8D22-BC81E284F43D} hdr-loe Col2-{CEBB7DF9-391B-4DA0-8D22-BC81E284F43D} hdr-rec">2. A superficial wound caused by an animal or human bite or with contamination with human or animal saliva should be evaluated in a medical facility as soon as possible.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{3A668377-57AB-4C9A-9DAB-4CB76A948F00}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{3A668377-57AB-4C9A-9DAB-4CB76A948F00}" scope="row" class="ecc-bg--loe-br">B-R</th>
+        <td headers="hdr-cor Col1-{3A668377-57AB-4C9A-9DAB-4CB76A948F00} hdr-loe Col2-{3A668377-57AB-4C9A-9DAB-4CB76A948F00} hdr-rec">3. It is reasonable to use running tap water or sterile saline solutions for wound irrigation instead of antiseptic agents such as povidone-iodine.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{6CABBBF6-EB49-4FE0-90E2-ECFE8409C4D4}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{6CABBBF6-EB49-4FE0-90E2-ECFE8409C4D4}" scope="row" class="ecc-bg--loe-br">B-R</th>
+        <td headers="hdr-cor Col1-{6CABBBF6-EB49-4FE0-90E2-ECFE8409C4D4} hdr-loe Col2-{6CABBBF6-EB49-4FE0-90E2-ECFE8409C4D4} hdr-rec">4. It is reasonable to cover clean superficial wounds and abrasions with an occlusive dressing to promote wound healing.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{0E53FB09-D878-4623-81C2-9A8C36C83D1D}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{0E53FB09-D878-4623-81C2-9A8C36C83D1D}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{0E53FB09-D878-4623-81C2-9A8C36C83D1D} hdr-loe Col2-{0E53FB09-D878-4623-81C2-9A8C36C83D1D} hdr-rec">5. If a person with superficial wound or abrasion develops redness, swelling, foul-smelling wound drainage, increased pain, or fever, it is reasonable to remove the dressing, inspect the wound, and obtain medical care.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div  ID=94trssi  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Suspected Spinal Injury</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{B895DFA0-2F1B-4F82-8F28-F7E3894F9333}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{B895DFA0-2F1B-4F82-8F28-F7E3894F9333}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{B895DFA0-2F1B-4F82-8F28-F7E3894F9333} hdr-loe Col2-{B895DFA0-2F1B-4F82-8F28-F7E3894F9333} hdr-rec">1. For a person with a suspected spinal injury, the first aid provider should have the person remain as still as possible (unless safety considerations warrant movement) and activate the emergency response system.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{DA3E5266-D9D6-4049-A069-391CD4E463DC}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{DA3E5266-D9D6-4049-A069-391CD4E463DC}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{DA3E5266-D9D6-4049-A069-391CD4E463DC} hdr-loe Col2-{DA3E5266-D9D6-4049-A069-391CD4E463DC} hdr-rec">2. We recommend against routine spinal immobilization for patients with penetrating trauma (eg, gunshot or knife wounds).</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{5CCC891E-F095-4A9B-A35E-73ACE5D324FC}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{5CCC891E-F095-4A9B-A35E-73ACE5D324FC}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{5CCC891E-F095-4A9B-A35E-73ACE5D324FC} hdr-loe Col2-{5CCC891E-F095-4A9B-A35E-73ACE5D324FC} hdr-rec">3. We recommend against the routine use of rigid cervical collars and long spine boards for spinal immobilization by first aid providers.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div  ID=95trconc  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Presyncope</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{9A75B728-DF6D-4DCC-9E85-9C78E3223C8F}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{9A75B728-DF6D-4DCC-9E85-9C78E3223C8F}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{9A75B728-DF6D-4DCC-9E85-9C78E3223C8F} hdr-loe Col2-{9A75B728-DF6D-4DCC-9E85-9C78E3223C8F} hdr-rec">1. A person with signs and symptoms of a concussion should be immediately removed from activity (play/sports) and not allowed to return to activity until evaluated by a health care professional.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{63064573-B0F7-4678-917C-8BBFF8666CBA}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{63064573-B0F7-4678-917C-8BBFF8666CBA}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{63064573-B0F7-4678-917C-8BBFF8666CBA} hdr-loe Col2-{63064573-B0F7-4678-917C-8BBFF8666CBA} hdr-rec">2. For a person with signs or symptoms of severe head injury (such as loss of consciousness, worsening headache, vomiting, altered mental status, seizures, visual changes, swelling, or deformities of the scalp), EMS should be activated.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div  ID=96trss  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Sprains and Strains</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{A476A575-D821-4B86-AC0F-2E693481729E}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{A476A575-D821-4B86-AC0F-2E693481729E}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{A476A575-D821-4B86-AC0F-2E693481729E} hdr-loe Col2-{A476A575-D821-4B86-AC0F-2E693481729E} hdr-rec">1. A person with a painful extremity injury that limits use should avoid activities that cause pain and seek medical attention.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{13593DC3-821A-481B-8D08-6537D645DD16}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{13593DC3-821A-481B-8D08-6537D645DD16}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{13593DC3-821A-481B-8D08-6537D645DD16} hdr-loe Col2-{13593DC3-821A-481B-8D08-6537D645DD16} hdr-rec">2. It can be useful for first aid providers to apply cold (such as with ice and water surrounded by a damp cloth) to an acute sprain or strain for pain and swelling. Cold application should be limited to 20 to 30 minutes per application without direct contact on the skin to avoid cold injury.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{304F17B4-B7AA-4A77-9180-F600BFA1A7EE}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{304F17B4-B7AA-4A77-9180-F600BFA1A7EE}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{304F17B4-B7AA-4A77-9180-F600BFA1A7EE} hdr-loe Col2-{304F17B4-B7AA-4A77-9180-F600BFA1A7EE} hdr-rec">3. First aid providers may consider applying a compression wrap after an acute ankle sprain or strain to promote comfort after an injury. Application of the compression wrap should be performed with- out compromising circulation.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div  ID=97trfrac  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Fractures</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{12E2B132-BA3F-40DA-BCC3-403FAC6A2D91}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{12E2B132-BA3F-40DA-BCC3-403FAC6A2D91}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{12E2B132-BA3F-40DA-BCC3-403FAC6A2D91} hdr-loe Col2-{12E2B132-BA3F-40DA-BCC3-403FAC6A2D91} hdr-rec">1. If a fracture is associated with an open wound and severe bleeding, the First Aid for Severe External Bleeding and First Aid for Life- Threatening Extremity Bleeding That Is Not Controlled by Direct Pressure recommendations should be followed.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{32418D35-D70F-498F-AFA0-998B4AE6DF7C}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{32418D35-D70F-498F-AFA0-998B4AE6DF7C}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{32418D35-D70F-498F-AFA0-998B4AE6DF7C} hdr-loe Col2-{32418D35-D70F-498F-AFA0-998B4AE6DF7C} hdr-rec">2. If a fractured extremity is blue, purple, or pale, the emergency response system should be activated immediately.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{E839473F-59C1-4352-99EA-DF9E0533B673}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{E839473F-59C1-4352-99EA-DF9E0533B673}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{E839473F-59C1-4352-99EA-DF9E0533B673} hdr-loe Col2-{E839473F-59C1-4352-99EA-DF9E0533B673} hdr-rec">3. Splinting of a fractured extremity can be useful to reduce pain, reduce risk for further injury, and facilitate transport to a medical facility.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{1591E65B-4BEC-48CB-9EC0-9D01D3D682C3}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{1591E65B-4BEC-48CB-9EC0-9D01D3D682C3}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{1591E65B-4BEC-48CB-9EC0-9D01D3D682C3} hdr-loe Col2-{1591E65B-4BEC-48CB-9EC0-9D01D3D682C3} hdr-rec">4. It may be reasonable to treat a deformed fractured extremity in the position found unless straightening the fracture is necessary to facilitate safe and prompt transport to a medical facility.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{49ED6787-86B2-4C16-B251-7DC122B12D63}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{49ED6787-86B2-4C16-B251-7DC122B12D63}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{49ED6787-86B2-4C16-B251-7DC122B12D63} hdr-loe Col2-{49ED6787-86B2-4C16-B251-7DC122B12D63} hdr-rec">5. Covering open wounds associated with a suspected fracture with a clean dressing may be useful to lower the risk for further contamination and infection.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div  ID=98trburnctb  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid Cooling of Thermal Burns</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{EAAC16B6-311A-4DD5-84DF-F7CBC890E537}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{EAAC16B6-311A-4DD5-84DF-F7CBC890E537}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{EAAC16B6-311A-4DD5-84DF-F7CBC890E537} hdr-loe Col2-{EAAC16B6-311A-4DD5-84DF-F7CBC890E537} hdr-rec">1. Thermal burns should be cooled immediately, preferably with clean running water.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{C8FC5FAC-A07E-407E-A52A-543E70304673}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{C8FC5FAC-A07E-407E-A52A-543E70304673}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{C8FC5FAC-A07E-407E-A52A-543E70304673} hdr-loe Col2-{C8FC5FAC-A07E-407E-A52A-543E70304673} hdr-rec">2. Preadolescent children with thermal burns being actively cooled with running water should be monitored for signs or symptoms of hypothermia.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{70740519-62A8-4483-A972-C237832A50BD}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{70740519-62A8-4483-A972-C237832A50BD}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{70740519-62A8-4483-A972-C237832A50BD} hdr-loe Col2-{70740519-62A8-4483-A972-C237832A50BD} hdr-rec">3. It may be reasonable to cool thermal burns for 5 to 20 minutes.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{07FBD991-25B1-40F3-AABF-47598DD8C662}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{07FBD991-25B1-40F3-AABF-47598DD8C662}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{07FBD991-25B1-40F3-AABF-47598DD8C662} hdr-loe Col2-{07FBD991-25B1-40F3-AABF-47598DD8C662} hdr-rec">4. If clean running water is not available, it may be reasonable to cool superficial burns (with the skin intact) with ice wrapped in cloth.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div  ID=98trburntbac  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Thermal Burns After Cooling</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{902B10C0-6EB7-4D11-B6A7-2720747D6EEC}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{902B10C0-6EB7-4D11-B6A7-2720747D6EEC}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{902B10C0-6EB7-4D11-B6A7-2720747D6EEC} hdr-loe Col2-{902B10C0-6EB7-4D11-B6A7-2720747D6EEC} hdr-rec">1. A person with a full-thickness burn or with a partial-thickness burn that is larger than the person&rsquo;s palm or involves the person&rsquo;s face, hands, feet, or genitals should promptly seek evaluation by a health care professional.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{40380B69-92F7-45C1-88E0-F3BF1C8B8797}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{40380B69-92F7-45C1-88E0-F3BF1C8B8797}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{40380B69-92F7-45C1-88E0-F3BF1C8B8797} hdr-loe Col2-{40380B69-92F7-45C1-88E0-F3BF1C8B8797} hdr-rec">2. For a person with evidence of smoke inhalation injury such as facial burns, difficulty breathing, singed nasal hairs, or soot around the nose or mouth, EMS should be activated.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{25C72AB3-6A7E-4C36-AB19-3A8F094CD18E}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{25C72AB3-6A7E-4C36-AB19-3A8F094CD18E}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{25C72AB3-6A7E-4C36-AB19-3A8F094CD18E} hdr-loe Col2-{25C72AB3-6A7E-4C36-AB19-3A8F094CD18E} hdr-rec">3. A person with thermal burns should promptly remove all jewelry, belts, and other tight items from burned areas.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{FED61C0F-E352-4FC6-9CDC-1ADAB755984F}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{FED61C0F-E352-4FC6-9CDC-1ADAB755984F}" scope="row" class="ecc-bg--loe-bnr">B-NR</th>
+        <td headers="hdr-cor Col1-{FED61C0F-E352-4FC6-9CDC-1ADAB755984F} hdr-loe Col2-{FED61C0F-E352-4FC6-9CDC-1ADAB755984F} hdr-rec">4. It is reasonable to give over-the-counter pain medications for pain from thermal burns.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{9A248DEB-53D2-492B-9370-BFE6E43D83F8}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{9A248DEB-53D2-492B-9370-BFE6E43D83F8}" scope="row" class="ecc-bg--loe-br">B-R</th>
+        <td headers="hdr-cor Col1-{9A248DEB-53D2-492B-9370-BFE6E43D83F8} hdr-loe Col2-{9A248DEB-53D2-492B-9370-BFE6E43D83F8} hdr-rec">5. After cooling, for small partial-thickness burns being managed at home, it may be reasonable to apply petrolatum, petrolatum-based antibiotic ointment, honey, or aloe vera and a clean nonadherent dressing to open burn wounds.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{703A1DF4-5FB1-4FB3-9E63-4AD2251A5D16}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{703A1DF4-5FB1-4FB3-9E63-4AD2251A5D16}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{703A1DF4-5FB1-4FB3-9E63-4AD2251A5D16} hdr-loe Col2-{703A1DF4-5FB1-4FB3-9E63-4AD2251A5D16} hdr-rec">6. After cooling, while awaiting evaluation by a health care professional, it may be reasonable to loosely cover a burn that has intact skin or an intact blister with a clean cloth or nonadherent dry dressing.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div  ID=99trda  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Dental Avulsion</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{ACA0C46D-4439-4F32-B7E9-3560404F3A5B}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{ACA0C46D-4439-4F32-B7E9-3560404F3A5B}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{ACA0C46D-4439-4F32-B7E9-3560404F3A5B} hdr-loe Col2-{ACA0C46D-4439-4F32-B7E9-3560404F3A5B} hdr-rec">1. When a permanent tooth becomes avulsed (knocked out), initial actions include removing visible debris from the tooth by brief rinsing (&lt;10 seconds), taking care not to damage the tooth or attached tissue, and attempting to replant the tooth in the socket.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{8ADAEE80-78C6-41EE-94E8-896D6CE87704}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{8ADAEE80-78C6-41EE-94E8-896D6CE87704}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{8ADAEE80-78C6-41EE-94E8-896D6CE87704} hdr-loe Col2-{8ADAEE80-78C6-41EE-94E8-896D6CE87704} hdr-rec">2. When a permanent tooth is avulsed, the person should seek dental or medical care immediately. They should bring the tooth if not successfully replanted.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{3A0B1B7B-4D94-4DA6-A037-71DBB539F993}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{3A0B1B7B-4D94-4DA6-A037-71DBB539F993}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{3A0B1B7B-4D94-4DA6-A037-71DBB539F993} hdr-loe Col2-{3A0B1B7B-4D94-4DA6-A037-71DBB539F993} hdr-rec">3. If an avulsed permanent tooth cannot be immediately replanted, it can be beneficial to place the tooth in Hanks Balanced Salt Solution, oral rehydration salt solutions, propolis, or rice water (if preprepared), or to wrap the tooth in cling film to prevent dehydration.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{D0BC831D-FC53-47DB-B58E-6B10CCD8E283}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{D0BC831D-FC53-47DB-B58E-6B10CCD8E283}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{D0BC831D-FC53-47DB-B58E-6B10CCD8E283} hdr-loe Col2-{D0BC831D-FC53-47DB-B58E-6B10CCD8E283} hdr-rec">4. If an avulsed permanent tooth cannot be immediately replanted and the aforementioned solutions or interventions are not available, storage of the tooth in cow&rsquo;s milk or saliva may be considered.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{4CBBDC8E-8DE5-4815-9F2E-1260A8D12D28}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{4CBBDC8E-8DE5-4815-9F2E-1260A8D12D28}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{4CBBDC8E-8DE5-4815-9F2E-1260A8D12D28} hdr-loe Col2-{4CBBDC8E-8DE5-4815-9F2E-1260A8D12D28} hdr-rec">5. If an avulsed permanent tooth cannot be immediately replanted and none of the above storage mediums are available, a probiotic, egg white, or almond milk may be considered.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{F358D494-0F1B-4DE9-A792-640832C84611}" scope="row" class="ecc-bg--cor-3harm">3: Harm</th>
+        <th id="Col2-{F358D494-0F1B-4DE9-A792-640832C84611}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{F358D494-0F1B-4DE9-A792-640832C84611} hdr-loe Col2-{F358D494-0F1B-4DE9-A792-640832C84611} hdr-rec">6. An avulsed permanent tooth should not be stored in tap water.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div  ID=910trsfbe  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Suspected Foreign Body in the Eye</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{B744F008-3144-498E-8ECE-DE7FE82A4EDD}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{B744F008-3144-498E-8ECE-DE7FE82A4EDD}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{B744F008-3144-498E-8ECE-DE7FE82A4EDD} hdr-loe Col2-{B744F008-3144-498E-8ECE-DE7FE82A4EDD} hdr-rec">1. A person who sustains a high-velocity eye injury (such as injuries from grinding, nailing, or machinery), penetrating eye injury from a sharp or metal object, irregular pupil after trauma, eye bleeding after trauma, or loss of vision after trauma should seek immediate medical attention.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{B4F35C2C-01C5-4B22-8DFA-26D9143C4E33}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{B4F35C2C-01C5-4B22-8DFA-26D9143C4E33}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{B4F35C2C-01C5-4B22-8DFA-26D9143C4E33} hdr-loe Col2-{B4F35C2C-01C5-4B22-8DFA-26D9143C4E33} hdr-rec">2. A person who has persistent foreign-body sensation in the eye should seek immediate medical attention.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{6E0D4C6D-D1CE-4AD4-8B1D-FAEE50E3BB6B}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{6E0D4C6D-D1CE-4AD4-8B1D-FAEE50E3BB6B}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{6E0D4C6D-D1CE-4AD4-8B1D-FAEE50E3BB6B} hdr-loe Col2-{6E0D4C6D-D1CE-4AD4-8B1D-FAEE50E3BB6B} hdr-rec">3. A person who develops a foreign-body sensation in the eye associated with contact lens use should remove the contact lens, discontinue con- tact lens use, and seek medical attention.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{C54FCFF7-F2DD-4765-BA81-A577EC5448FD}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{C54FCFF7-F2DD-4765-BA81-A577EC5448FD}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{C54FCFF7-F2DD-4765-BA81-A577EC5448FD} hdr-loe Col2-{C54FCFF7-F2DD-4765-BA81-A577EC5448FD} hdr-rec">4. A person with a foreign-body sensation in the eye should not rub their eye.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{CCA34FED-BCC5-474E-A352-8E440C74475F}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{CCA34FED-BCC5-474E-A352-8E440C74475F}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{CCA34FED-BCC5-474E-A352-8E440C74475F} hdr-loe Col2-{CCA34FED-BCC5-474E-A352-8E440C74475F} hdr-rec">5. Taping a hard plastic eye shield, paper cup, or plastic cup over the eye can help prevent unintentional touching of the eye.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{CE8EC216-067D-4059-899D-1AB304FFEE91}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{CE8EC216-067D-4059-899D-1AB304FFEE91}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{CE8EC216-067D-4059-899D-1AB304FFEE91} hdr-loe Col2-{CE8EC216-067D-4059-899D-1AB304FFEE91} hdr-rec">6. It is reasonable for a person with a foreign body in the eye from a low-energy mechanism (eg, dust, dirt, other object blown into the eye by wind; eyelash in the eye) to attempt to remove the foreign body by allowing natural tears to wash out the object or by irrigating the eye with tap water or a commercial eye wash solution.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{70C985A7-8300-4A3F-A918-4AA270279076}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{70C985A7-8300-4A3F-A918-4AA270279076}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{70C985A7-8300-4A3F-A918-4AA270279076} hdr-loe Col2-{70C985A7-8300-4A3F-A918-4AA270279076} hdr-rec">7. It is reasonable to take over-the-counter oral acetaminophen or NSAIDs to treat residual discomfort after ocular foreign-body removal.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div  ID=911trepistaxis  class="color-coded-table">
+    <div class="container color-coded-table__container">
+        <div class="row">
+            <div class="col-12">
+                <table class="color-coded-table__table" >
+                    <caption>First Aid for Epistaxis</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-cor">COR</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-loe">LOE</th>
+                                <th scope="col" class="ecc-bg--gray" id="hdr-rec">Recommendations</th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                        
+
+
+
+    <tr>
+        <th id="Col1-{209993D4-7166-47F5-A4DB-E366166BC298}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{209993D4-7166-47F5-A4DB-E366166BC298}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{209993D4-7166-47F5-A4DB-E366166BC298} hdr-loe Col2-{209993D4-7166-47F5-A4DB-E366166BC298} hdr-rec">1. A person experiencing epistaxis should sit with their head slightly forward with their nostrils pinched for 10 to 15 minutes.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{50783C4C-02C0-4E12-B7DC-A8F1C8230120}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{50783C4C-02C0-4E12-B7DC-A8F1C8230120}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{50783C4C-02C0-4E12-B7DC-A8F1C8230120} hdr-loe Col2-{50783C4C-02C0-4E12-B7DC-A8F1C8230120} hdr-rec">2. A person experiencing epistaxis that does not stop after 15 minutes of continuous manual pressure or who becomes lightheaded from epistaxis should seek medical attention.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{B995DDE7-1E99-45E6-87A8-D9E0C706EE2E}" scope="row" class="ecc-bg--cor-1">1</th>
+        <th id="Col2-{B995DDE7-1E99-45E6-87A8-D9E0C706EE2E}" scope="row" class="ecc-bg--loe-ceo">C-EO</th>
+        <td headers="hdr-cor Col1-{B995DDE7-1E99-45E6-87A8-D9E0C706EE2E} hdr-loe Col2-{B995DDE7-1E99-45E6-87A8-D9E0C706EE2E} hdr-rec">3. A person with epistaxis due to trauma should seek medical attention if they experience signs of brain in- jury, obvious nasal deformity, or signs of facial fracture.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{69C728CE-E292-4C88-89AC-DEF359ACE5C9}" scope="row" class="ecc-bg--cor-2a">2a</th>
+        <th id="Col2-{69C728CE-E292-4C88-89AC-DEF359ACE5C9}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{69C728CE-E292-4C88-89AC-DEF359ACE5C9} hdr-loe Col2-{69C728CE-E292-4C88-89AC-DEF359ACE5C9} hdr-rec">4. It is reasonable for a person experiencing epistaxis who is taking anticoagulant or antiplatelet medication, or who has a blood-clotting disorder, to seek care from a health care professional, unless bleeding has stopped.</td>
+    </tr>
+
+
+
+
+    <tr>
+        <th id="Col1-{A5F61575-458B-492F-9A4F-5DCC8C03D88D}" scope="row" class="ecc-bg--cor-2b">2b</th>
+        <th id="Col2-{A5F61575-458B-492F-9A4F-5DCC8C03D88D}" scope="row" class="ecc-bg--loe-cld">C-LD</th>
+        <td headers="hdr-cor Col1-{A5F61575-458B-492F-9A4F-5DCC8C03D88D} hdr-loe Col2-{A5F61575-458B-492F-9A4F-5DCC8C03D88D} hdr-rec">5. The usefulness of cryotherapy (ice) for managing epistaxis in the first aid setting is unknown.</td>
+    </tr>
+
+                    </tbody>
+                    <tfoot>
+                        
+                    </tfoot> 
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- END NOINDEX -->
+</body>
+</html>
