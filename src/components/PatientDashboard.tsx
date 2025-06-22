@@ -157,23 +157,6 @@ export default function PatientDashboard({
           >
             <Printer style={{ width: "24px", height: "24px" }} />
           </Button>
-          
-          {/* Debug button to test formats */}
-          {/* <Button
-            className="text-blue-900 bg-yellow-50 hover:bg-yellow-100"
-            onClick={testAllFormats}
-          >
-            Test Formats
-          </Button> */}
-          
-          {/* Retry prediction button */}
-          {/* <Button
-            className="text-blue-900 bg-green-50 hover:bg-green-100"
-            onClick={getTriagePrediction}
-            disabled={isLoading}
-          >
-            {isLoading ? "Loading..." : "Retry Prediction"}
-          </Button> */}
         </div>
 
         {/* Header */}
@@ -188,19 +171,6 @@ export default function PatientDashboard({
               </div>
             </div>
             <div className="flex items-center space-x-4">
-              {/* <Badge
-                variant={
-                  patientData.urgency === "High"
-                    ? "destructive"
-                    : patientData.urgency === "Medium"
-                      ? "default"
-                      : "secondary"
-                }
-                className='bg-blue-900 text-white'
-              >
-                {patientData.urgency} Priority
-              </Badge> */}
-
               {/* Enhanced triage display */}
               {isLoading && (
                 <span className="text-sm text-blue-600 italic">
@@ -270,11 +240,6 @@ export default function PatientDashboard({
                 </CardTitle>
                 <CardDescription className="text-gray-900">
                   Symptoms extracted from patient call transcript
-                  {/* {predictedTriage && (
-                    <span className="block mt-1 text-blue-600 font-medium">
-                      Model Input: "{formatSymptomsBalanced()}"
-                    </span>
-                  )} */}
                 </CardDescription>
               </CardHeader>
               <CardContent>

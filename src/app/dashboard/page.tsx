@@ -22,22 +22,13 @@ export default function DashboardPage() {
     description: string
   }
 
-  type Action = {
-    label: string
-    onClick: () => void
-  }
-
-  type ClinicalNote = {
-    title: string
-    content: string
-    createdAt: string
-  }
+  type ClinicalNote = ClinicalNote[]
 
   type DashboardData = {
     patientData: PatientDataType
     transcript: string
     extractedSymptoms: ExtractedSymptom[]
-    actions?: Action[]
+    actions?: string[]
     clinicalNotes?: ClinicalNote[]
   }
 
@@ -59,7 +50,7 @@ export default function DashboardPage() {
       patientData={dashboardData.patientData}
       transcript={dashboardData.transcript}
       extractedSymptoms={dashboardData.extractedSymptoms}
-      actions={dashboardData.actions}
+      actions={dashboardData.actions ?? []}
       clinicalNotes={dashboardData.clinicalNotes}
     />
   )
